@@ -6,6 +6,7 @@ TagManager:
   tags:
   - player
   - Hunter
+  - Turn
   layers:
   - Default
   - TransparentFX
