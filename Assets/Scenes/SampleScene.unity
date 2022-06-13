@@ -5835,5 +5835,9 @@ PrefabInstance:
       propertyPath: m_Name
       value: hunter
       objectReference: {fileID: 0}
+    - target: {fileID: 4414938079524529045, guid: 8b0768f71e76260468ea4ba9e4d89dee, type: 3}
+      propertyPath: m_TagString
+      value: Hunter
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8b0768f71e76260468ea4ba9e4d89dee, type: 3}
