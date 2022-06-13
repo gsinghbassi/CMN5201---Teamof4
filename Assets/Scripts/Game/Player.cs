@@ -23,6 +23,10 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        if (collision.gameObject.tag == "Player")
+        {
+            TakenDamage(1);
+        }
         TakenDamage(1);
     }
     
