@@ -42,8 +42,11 @@ public class Player : MonoBehaviour
         healthBar.SetHealth(currenthealth);
     }
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 54f2b1354d687bcacc4ecd415f01090905b6ad39
     /* private void OnCollisionEnter2D(Collision2D collision)
      {
          if (collision.gameObject.tag == "Player")
@@ -51,6 +54,7 @@ public class Player : MonoBehaviour
              health -= currenthealth;
          }
      }*/
+<<<<<<< HEAD
 
     private void Update()
     {
@@ -67,4 +71,14 @@ public class Player : MonoBehaviour
         gameOverScreen.SetActive(true);
     }
 
+=======
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Light")
+        {
+            TakenDamage(1);
+        }
+        /*TakenDamage(1);*/
+    }
+>>>>>>> 54f2b1354d687bcacc4ecd415f01090905b6ad39
 }
