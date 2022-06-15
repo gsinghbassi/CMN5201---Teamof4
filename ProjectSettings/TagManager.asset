@@ -8,6 +8,8 @@ TagManager:
   - Hunter
   - Turn
   - Banjo
+  - Light
+  - Walls
   layers:
   - Default
   - TransparentFX
