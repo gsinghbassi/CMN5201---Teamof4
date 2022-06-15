@@ -37,11 +37,19 @@ public class Player : MonoBehaviour
         healthBar.SetHealth(currenthealth);
     }
 
-   /* private void OnCollisionEnter2D(Collision2D collision)
+    /* private void OnCollisionEnter2D(Collision2D collision)
+     {
+         if (collision.gameObject.tag == "Player")
+         {
+             health -= currenthealth;
+         }
+     }*/
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.tag == "Player")
+        if (collision.gameObject.tag == "Light")
         {
-            health -= currenthealth;
+            TakenDamage(1);
         }
-    }*/
+        /*TakenDamage(1);*/
+    }
 }
