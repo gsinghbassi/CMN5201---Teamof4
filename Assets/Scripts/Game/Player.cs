@@ -3,14 +3,19 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
 public class Player : MonoBehaviour
 {
 
-    public int maxhealth = 100;
+    public int maxhealth = 8;
     public int currenthealth;
     public int health;
 
+    private bool gameOver;
+
     public HealthBar healthBar;
+
+    public GameObject gameOverScreen;
 
     // Start is called before the first frame update
     void Start()
@@ -37,11 +42,29 @@ public class Player : MonoBehaviour
         healthBar.SetHealth(currenthealth);
     }
 
-   /* private void OnCollisionEnter2D(Collision2D collision)
+
+
+    /* private void OnCollisionEnter2D(Collision2D collision)
+     {
+         if (collision.gameObject.tag == "Player")
+         {
+             health -= currenthealth;
+         }
+     }*/
+
+    private void Update()
     {
-        if (collision.gameObject.tag == "Player")
+        if  (currenthealth == 0)
         {
-            health -= currenthealth;
+            gameOver = true;
+            StartCoroutine(DisplayGameOver());
         }
-    }*/
+    }
+
+    IEnumerator DisplayGameOver()
+    {
+        yield return new WaitForSeconds(0.5f);
+        gameOverScreen.SetActive(true);
+    }
+
 }
