@@ -10,6 +10,8 @@ TagManager:
   - Banjo
   - Light
   - Walls
+  - Guitar
+  - Violin
   layers:
   - Default
   - TransparentFX
