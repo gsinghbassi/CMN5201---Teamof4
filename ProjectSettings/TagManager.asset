@@ -12,6 +12,7 @@ TagManager:
   - Walls
   - Guitar
   - Violin
+  - Score
   layers:
   - Default
   - TransparentFX
