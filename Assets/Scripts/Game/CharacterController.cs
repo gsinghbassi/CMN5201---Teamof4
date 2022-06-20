@@ -7,17 +7,39 @@ public class CharacterController : MonoBehaviour
     Rigidbody2D DollRigidbody;
     public float speed;
     Vector2 direction;
-    
+    SpriteRenderer spriteRenderer;
+    public Sprite left, right, up, down;
+
+
     // Start is called before the first frame update
     void Start()
     {
-        DollRigidbody = GetComponent<Rigidbody2D>();
+       DollRigidbody = GetComponent<Rigidbody2D>();
+       spriteRenderer  = GetComponent<SpriteRenderer>();
+       
     }
 
     // Update is called once per frame
     void Update()
     {
         DollMovement();
+
+        if (Input.GetKey("W"))
+        {
+            spriteRenderer.sprite = up;
+        }
+        else if (Input.GetKey("A"))
+        {
+            spriteRenderer.sprite = left;
+        }
+        else if (Input.GetKey("S"))
+        {
+            spriteRenderer.sprite = down;
+        }
+        else if (Input.GetKey("D"))
+        {
+            spriteRenderer.sprite = right;
+        }
     }
 
     void DollMovement()
