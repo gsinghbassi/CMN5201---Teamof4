@@ -18,8 +18,7 @@ public class GuitarScore : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Hunter"))
         {
-            Destroy(other.gameObject);
-            Destroy(gameObject);
+
         }
 
 
