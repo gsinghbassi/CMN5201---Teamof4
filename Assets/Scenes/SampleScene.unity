@@ -6456,7 +6456,6 @@ MonoBehaviour:
   ScoreLifeSpan: 0.8
   Score: {fileID: 1359582688878795211, guid: 101c6399b38c8934b846425a0c37eade, type: 3}
   guitarIcon: {fileID: 0}
-<<<<<<< HEAD
 --- !u!114 &1081266313 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
@@ -6468,8 +6467,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 07353459cb698c64384cb0dd2bfffbda, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-=======
->>>>>>> 5b44d6d1c7d0c90b875250dd6a4ce5c021b10555
 --- !u!61 &1081266316
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6513,10 +6510,7 @@ MonoBehaviour:
   attackingPointLeft: {fileID: 1460846025}
   musicScorePrefab: {fileID: 1395152098126075743, guid: c8c2206d28f1ee54d96101664fbada6e, type: 3}
   banjoIcon: {fileID: 0}
-<<<<<<< HEAD
   myCharacterController: {fileID: 1081266313}
-=======
->>>>>>> 5b44d6d1c7d0c90b875250dd6a4ce5c021b10555
 --- !u!114 &1081266318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -8135,7 +8129,6 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -9.81
       objectReference: {fileID: 0}
-<<<<<<< HEAD
     - target: {fileID: 8372030785170507788, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: m_Sprite
       value: 
@@ -8148,16 +8141,6 @@ PrefabInstance:
       propertyPath: down
       value: 
       objectReference: {fileID: 21300000, guid: c3324ab71a29471428db53f0f9eaeda3, type: 3}
-=======
-    - target: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
-      propertyPath: up
-      value: 
-      objectReference: {fileID: 21300000, guid: c3324ab71a29471428db53f0f9eaeda3, type: 3}
-    - target: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
-      propertyPath: down
-      value: 
-      objectReference: {fileID: 21300000, guid: a87a6253c0958654d9d15d15221e3573, type: 3}
->>>>>>> 5b44d6d1c7d0c90b875250dd6a4ce5c021b10555
     - target: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: left
       value: 
