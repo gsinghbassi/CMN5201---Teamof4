@@ -9,7 +9,7 @@ public class EnemyHealthDamage : MonoBehaviour
     public int currenthealth;
     public int health;
 
-    public HealthBar healthBar;
+    public EnemyHealthBar healthBar;
 
     // Start is called before the first frame update
     void Start()
@@ -27,7 +27,7 @@ public class EnemyHealthDamage : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Score")
+        if (collision.gameObject.tag == "Score") 
         {
             TakenDamage(1);
         }
