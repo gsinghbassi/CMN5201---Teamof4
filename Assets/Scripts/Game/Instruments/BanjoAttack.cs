@@ -8,7 +8,7 @@ public class BanjoAttack : MonoBehaviour
     private int banjo = 0;
     private bool inventoryBanjo = false;
     [SerializeField] private Text banjotext;
-    [SerializeField] Transform attackingPointRight, attackingPointLeft, attackingPointup, attackingPointdown;
+    [SerializeField] Transform attackingPointRight, attackingPointLeft, attackingPointUp, attackingPointDown;
     [SerializeField] GameObject musicScorePrefab;
     private int counter = 0;
     [SerializeField] GameObject banjoIcon;
@@ -53,11 +53,11 @@ public class BanjoAttack : MonoBehaviour
         }
         if (myCharacterController.myDirection == CharacterController.Direction.up)
         {
-            Instantiate(musicScorePrefab, attackingPointup.position, attackingPointup.rotation);
+            Instantiate(musicScorePrefab, attackingPointUp.position, attackingPointUp.rotation);
         }
         if (myCharacterController.myDirection == CharacterController.Direction.down)
         {
-            Instantiate(musicScorePrefab, attackingPointdown.position, attackingPointdown.rotation);
+            Instantiate(musicScorePrefab, attackingPointDown.position, attackingPointDown.rotation);
         }
 
 
