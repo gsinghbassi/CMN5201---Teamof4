@@ -59,5 +59,13 @@ public class ViolinAttack : MonoBehaviour
             }
         }
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.transform.tag == "Hunter")
+        {
+            collision.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(1);
+        }
+    }
 }
 

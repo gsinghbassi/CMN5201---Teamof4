@@ -43,12 +43,6 @@ public class Player : MonoBehaviour
     }
 
 
-
-
-
-
-
-
     private void Update()
     {
         if  (currenthealth == 0)

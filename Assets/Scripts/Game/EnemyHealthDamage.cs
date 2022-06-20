@@ -30,8 +30,9 @@ public class EnemyHealthDamage : MonoBehaviour
         if (collision.gameObject.tag == "Score") 
         {
             TakenDamage(1);
+            //Debug.Log("damage taken by 1");
+            Destroy(collision.gameObject);
         }
-        /*TakenDamage(1);*/
     }
 
     public void TakenDamage(int Damage)

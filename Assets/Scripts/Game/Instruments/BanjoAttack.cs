@@ -10,14 +10,8 @@ public class BanjoAttack : MonoBehaviour
     [SerializeField] private Text banjotext;
     [SerializeField] Transform attackingPoint;
     [SerializeField] GameObject musicScorePrefab;
-    [SerializeField] GameObject banjoIcon;
-    private int counter = 0;
-    private bool isInInventory = false;
+    
 
-    private void Start()
-    {
-        banjoIcon.SetActive(false);
-    }
     // Update is called once per frame
     void Update()
     {
@@ -40,7 +34,6 @@ public class BanjoAttack : MonoBehaviour
     void Shoot()
     {
         Instantiate(musicScorePrefab, attackingPoint.position, attackingPoint.rotation);
-        counter++;
         
     }
     private void OnTriggerEnter2D(Collider2D collision)
@@ -58,6 +51,14 @@ public class BanjoAttack : MonoBehaviour
                 counter = 0;
                 isInInventory = true;
             }
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.transform.tag == "Hunter")
+        {
+            collision.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(1);
         }
     }
 }
