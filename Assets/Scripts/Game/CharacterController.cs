@@ -24,21 +24,21 @@ public class CharacterController : MonoBehaviour
     {
         DollMovement();
 
-        if (Input.GetKey("W"))
+        if (Input.GetAxis("Horizontal") > 0.0f)
         {
-            spriteRenderer.sprite = up;
+            spriteRenderer.sprite = right;
         }
-        else if (Input.GetKey("A"))
-        {
-            spriteRenderer.sprite = left;
-        }
-        else if (Input.GetKey("S"))
+        else if (Input.GetAxis("Vertical") < 0.0f)
         {
             spriteRenderer.sprite = down;
         }
-        else if (Input.GetKey("D"))
+        else if (Input.GetAxis("Horizontal") < 0.0f)
         {
-            spriteRenderer.sprite = right;
+            spriteRenderer.sprite = left;
+        }
+        else if (Input.GetAxis("Vertical") > 0.0f)
+        {
+            spriteRenderer.sprite = up;
         }
     }
 
