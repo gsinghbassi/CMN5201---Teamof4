@@ -14,6 +14,7 @@ public class MusicScore : MonoBehaviour
     }
     private void OnTriggerEnter2D(Collider2D other)
     {
+
         if (other.gameObject.CompareTag("Hunter"))
         {
             Destroy(other.gameObject);
@@ -23,7 +24,7 @@ public class MusicScore : MonoBehaviour
         {
             Destroy(gameObject);
         }
-       
+
     }
 
 
