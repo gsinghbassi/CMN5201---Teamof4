@@ -6395,6 +6395,7 @@ MonoBehaviour:
   firePoint: {fileID: 650978811}
   ScoreLifeSpan: 0.8
   Score: {fileID: 1359582688878795211, guid: 101c6399b38c8934b846425a0c37eade, type: 3}
+  guitarIcon: {fileID: 0}
 --- !u!61 &1081266316
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6436,6 +6437,7 @@ MonoBehaviour:
   banjotext: {fileID: 417861559}
   attackingPoint: {fileID: 811533340}
   musicScorePrefab: {fileID: 1395152098126075743, guid: c8c2206d28f1ee54d96101664fbada6e, type: 3}
+  banjoIcon: {fileID: 0}
 --- !u!114 &1081266318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6451,6 +6453,7 @@ MonoBehaviour:
   violintext: {fileID: 1338962388}
   attackingPoint: {fileID: 1135749055}
   musicScorePrefab: {fileID: 2040040186257480380, guid: bdc96806fa9826b4e94993c23b247a33, type: 3}
+  ViolinIcon: {fileID: 0}
 --- !u!1 &1096134244
 GameObject:
   m_ObjectHideFlags: 0
@@ -8023,6 +8026,22 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -9.81
       objectReference: {fileID: 0}
+    - target: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: up
+      value: 
+      objectReference: {fileID: 21300000, guid: c3324ab71a29471428db53f0f9eaeda3, type: 3}
+    - target: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: down
+      value: 
+      objectReference: {fileID: 21300000, guid: a87a6253c0958654d9d15d15221e3573, type: 3}
+    - target: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: left
+      value: 
+      objectReference: {fileID: 21300000, guid: c14b0a1bdf2635040b6f149824e7c59f, type: 3}
+    - target: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: right
+      value: 
+      objectReference: {fileID: 21300000, guid: e0982305101ffb549bf5785629c9b21e, type: 3}
     - target: {fileID: 8372030785170507795, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: healthBar
       value: 
