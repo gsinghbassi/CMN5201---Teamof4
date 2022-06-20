@@ -8,11 +8,13 @@ public class BanjoAttack : MonoBehaviour
     private int banjo = 0;
     private bool inventoryBanjo = false;
     [SerializeField] private Text banjotext;
-    [SerializeField] Transform attackingPoint;
+    [SerializeField] Transform attackingPointRight, attackingPointLeft;
     [SerializeField] GameObject musicScorePrefab;
     private int counter = 0;
     [SerializeField] GameObject banjoIcon;
     private bool isInInventory = false;
+
+    public CharacterController myCharacterController;
 
     private void Start()
     {
@@ -41,8 +43,17 @@ public class BanjoAttack : MonoBehaviour
     }
     void Shoot()
     {
-        Instantiate(musicScorePrefab, attackingPoint.position, attackingPoint.rotation);
-        
+        if(myCharacterController.myDirection == CharacterController.Direction.right)
+        {
+            Instantiate(musicScorePrefab, attackingPointRight.position, attackingPointRight.rotation);
+        }
+        if (myCharacterController.myDirection == CharacterController.Direction.left)
+        {
+            Instantiate(musicScorePrefab, attackingPointLeft.position, attackingPointLeft.rotation);
+        }
+
+
+
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {

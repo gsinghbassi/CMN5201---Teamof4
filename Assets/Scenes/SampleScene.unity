@@ -388,6 +388,36 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   slider: {fileID: 130150849}
+--- !u!1 &135957949
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 135957950}
+  m_Layer: 0
+  m_Name: Attacking Point(Banjo) Up(1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &135957950
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 135957949}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 22.9, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 330396575}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &136934376
 GameObject:
   m_ObjectHideFlags: 0
@@ -1784,6 +1814,36 @@ Transform:
   m_Children: []
   m_Father: {fileID: 330396575}
   m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &655309237
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 655309238}
+  m_Layer: 0
+  m_Name: Attacking Point(Banjo) Right (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &655309238
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 655309237}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -22.9, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 330396575}
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &689196130
 GameObject:
@@ -6043,7 +6103,7 @@ GameObject:
   m_Component:
   - component: {fileID: 811533340}
   m_Layer: 0
-  m_Name: Attacking Point(Banjo)
+  m_Name: Attacking Point(Banjo) Right
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6395,6 +6455,18 @@ MonoBehaviour:
   firePoint: {fileID: 650978811}
   ScoreLifeSpan: 0.8
   Score: {fileID: 1359582688878795211, guid: 101c6399b38c8934b846425a0c37eade, type: 3}
+  guitarIcon: {fileID: 0}
+--- !u!114 &1081266313 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+  m_PrefabInstance: {fileID: 2935718307606439453}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1081266310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07353459cb698c64384cb0dd2bfffbda, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!61 &1081266316
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -6434,8 +6506,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   banjotext: {fileID: 417861559}
-  attackingPoint: {fileID: 811533340}
+  attackingPointRight: {fileID: 811533340}
+  attackingPointLeft: {fileID: 1460846025}
   musicScorePrefab: {fileID: 1395152098126075743, guid: c8c2206d28f1ee54d96101664fbada6e, type: 3}
+  banjoIcon: {fileID: 0}
+  myCharacterController: {fileID: 1081266313}
 --- !u!114 &1081266318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6451,6 +6526,7 @@ MonoBehaviour:
   violintext: {fileID: 1338962388}
   attackingPoint: {fileID: 1135749055}
   musicScorePrefab: {fileID: 2040040186257480380, guid: bdc96806fa9826b4e94993c23b247a33, type: 3}
+  ViolinIcon: {fileID: 0}
 --- !u!1 &1096134244
 GameObject:
   m_ObjectHideFlags: 0
@@ -7131,6 +7207,36 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1338962386}
   m_CullTransparentMesh: 1
+--- !u!1 &1460846024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1460846025}
+  m_Layer: 0
+  m_Name: Attacking Point(Banjo) (1) Left
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1460846025
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1460846024}
+  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
+  m_LocalPosition: {x: -22.9, y: 0.59999776, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 330396575}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
 --- !u!1 &1538925807
 GameObject:
   m_ObjectHideFlags: 0
@@ -8023,6 +8129,26 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: -9.81
       objectReference: {fileID: 0}
+    - target: {fileID: 8372030785170507788, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: c14b0a1bdf2635040b6f149824e7c59f, type: 3}
+    - target: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: up
+      value: 
+      objectReference: {fileID: 21300000, guid: a87a6253c0958654d9d15d15221e3573, type: 3}
+    - target: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: down
+      value: 
+      objectReference: {fileID: 21300000, guid: c3324ab71a29471428db53f0f9eaeda3, type: 3}
+    - target: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: left
+      value: 
+      objectReference: {fileID: 21300000, guid: c14b0a1bdf2635040b6f149824e7c59f, type: 3}
+    - target: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: right
+      value: 
+      objectReference: {fileID: 21300000, guid: e0982305101ffb549bf5785629c9b21e, type: 3}
     - target: {fileID: 8372030785170507795, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: healthBar
       value: 

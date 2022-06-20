@@ -41,7 +41,7 @@ public class GuitarAttack : MonoBehaviour
         }
 
     }
-    void Shoot()
+    public void Shoot()
     {
         Rigidbody2D clone;
         clone = Instantiate(Score, transform.position, transform.rotation);
@@ -75,4 +75,5 @@ public class GuitarAttack : MonoBehaviour
             collision.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(1);
         }
     }
+
 }
