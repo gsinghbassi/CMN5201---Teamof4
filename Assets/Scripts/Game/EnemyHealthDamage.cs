@@ -20,10 +20,10 @@ public class EnemyHealthDamage : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+   /* void Update()
     {
         
-    }
+    }*/
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
