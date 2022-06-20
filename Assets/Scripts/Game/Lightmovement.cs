@@ -13,12 +13,12 @@ public class Lightmovement : MonoBehaviour
         hold = transform.position.x;
         if (right == true)
         {
-            transform.position = new Vector3(0.53f, -0.006f, 0);
+            transform.localPosition = new Vector3(-2.31f, -0.28f, 0);
             transform.rotation = Quaternion.Euler(0, 0, 180);
         }
         else
         {
-            transform.position = new Vector3(-0.53f,-0.06f,0);
+            transform.localPosition = new Vector3(2.31f, -0.28f, 0);
             transform.rotation = Quaternion.Euler(0,0,0);
         }
     }
@@ -28,12 +28,12 @@ public class Lightmovement : MonoBehaviour
     {
         if (transform.localPosition.x > hold)
         {
-            transform.position = new Vector3(0.53f, -0.006f, 0);
+            transform.localPosition = new Vector3(0.53f, -0.006f, 0);
             transform.rotation = Quaternion.Euler(0, 0, 180);
         }
         else
         {
-            transform.position = new Vector3(-0.53f, -0.06f, 0);
+            transform.localPosition = new Vector3(-0.53f, -0.06f, 0);
             transform.rotation = Quaternion.Euler(0, 0, 0);
         }
     }
