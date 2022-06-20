@@ -10,7 +10,14 @@ public class BanjoAttack : MonoBehaviour
     [SerializeField] private Text banjotext;
     [SerializeField] Transform attackingPoint;
     [SerializeField] GameObject musicScorePrefab;
-    
+    private int counter = 0;
+    [SerializeField] GameObject banjoIcon;
+    private bool isInInventory = false;
+
+    private void Start()
+    {
+        banjoIcon.SetActive(false);
+    }
 
     // Update is called once per frame
     void Update()
@@ -21,6 +28,7 @@ public class BanjoAttack : MonoBehaviour
             if (Input.GetButtonDown("Fire1")) //Press the left CTRL
             {
                 Shoot();
+                counter++;
             }
         }
         if (counter == 2)
@@ -60,5 +68,6 @@ public class BanjoAttack : MonoBehaviour
         {
             collision.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(1);
         }
+        
     }
 }
