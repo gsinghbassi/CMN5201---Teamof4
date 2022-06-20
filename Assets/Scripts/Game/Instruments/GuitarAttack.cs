@@ -45,4 +45,12 @@ public class GuitarAttack : MonoBehaviour
            inventoryGuitar = true;
         }
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.transform.tag == "Hunter")
+        {
+            collision.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(1);
+        }
+    }
 }
