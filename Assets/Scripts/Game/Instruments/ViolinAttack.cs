@@ -8,11 +8,13 @@ public class ViolinAttack : MonoBehaviour
     private int violin = 0;
     private bool inventoryViolin = false;
     [SerializeField] private Text violintext;
-    [SerializeField] Transform attackingPoint;
+    [SerializeField] Transform attackingPointRight, attackingPointLeft, attackingPointUp, attackingPointDown;
     [SerializeField] GameObject musicScorePrefab;
     [SerializeField] GameObject ViolinIcon;
     private int counter=0;
     private bool isInInventory=false;
+
+    public CharacterController myCharacterController;
 
     private void Start()
     {
@@ -38,8 +40,23 @@ public class ViolinAttack : MonoBehaviour
     }
     void Shoot()
     {
-        Instantiate(musicScorePrefab, attackingPoint.position, attackingPoint.rotation);
-        counter++;
+        if (myCharacterController.myDirection == CharacterController.Direction.right)
+        {
+            Instantiate(musicScorePrefab, attackingPointRight.position, attackingPointRight.rotation);
+        }
+        if (myCharacterController.myDirection == CharacterController.Direction.left)
+        {
+            Instantiate(musicScorePrefab, attackingPointLeft.position, attackingPointLeft.rotation);
+        }
+        if (myCharacterController.myDirection == CharacterController.Direction.up)
+        {
+            Instantiate(musicScorePrefab, attackingPointUp.position, attackingPointUp.rotation);
+        }
+        if (myCharacterController.myDirection == CharacterController.Direction.down)
+        {
+            Instantiate(musicScorePrefab, attackingPointDown.position, attackingPointDown.rotation);
+        }
+
 
     }
     private void OnTriggerEnter2D(Collider2D collision)
