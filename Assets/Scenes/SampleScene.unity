@@ -14473,9 +14473,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   violintext: {fileID: 1338962388}
-  attackingPoint: {fileID: 1135749055}
+  attackingPointRight: {fileID: 811533340}
+  attackingPointLeft: {fileID: 1460846025}
+  attackingPointUp: {fileID: 135957950}
+  attackingPointDown: {fileID: 655309238}
   musicScorePrefab: {fileID: 2040040186257480380, guid: bdc96806fa9826b4e94993c23b247a33, type: 3}
   ViolinIcon: {fileID: 1388936623}
+  myCharacterController: {fileID: 1081266313}
 --- !u!70 &1081266319
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

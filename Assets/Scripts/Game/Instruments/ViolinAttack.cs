@@ -43,18 +43,22 @@ public class ViolinAttack : MonoBehaviour
         if (myCharacterController.myDirection == CharacterController.Direction.right)
         {
             Instantiate(musicScorePrefab, attackingPointRight.position, attackingPointRight.rotation);
+            counter++;
         }
         if (myCharacterController.myDirection == CharacterController.Direction.left)
         {
             Instantiate(musicScorePrefab, attackingPointLeft.position, attackingPointLeft.rotation);
+            counter++;
         }
         if (myCharacterController.myDirection == CharacterController.Direction.up)
         {
             Instantiate(musicScorePrefab, attackingPointUp.position, attackingPointUp.rotation);
+            counter++;
         }
         if (myCharacterController.myDirection == CharacterController.Direction.down)
         {
             Instantiate(musicScorePrefab, attackingPointDown.position, attackingPointDown.rotation);
+            counter++;
         }
 
 
