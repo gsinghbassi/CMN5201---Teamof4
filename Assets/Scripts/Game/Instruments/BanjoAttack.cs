@@ -87,6 +87,8 @@ public class BanjoAttack : MonoBehaviour
         {
             collision.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(1);
         }
+
+       
         
     }
 }
