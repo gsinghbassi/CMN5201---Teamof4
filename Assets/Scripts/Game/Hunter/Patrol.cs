@@ -15,15 +15,18 @@ public class Patrol : MonoBehaviour
     [SerializeField] float speed;
     private Vector3 initScale;
     private bool movingLeft;
+    Animator anim;
 
     private void Awake()
     {
         initScale = enemy.localScale;
+        anim = GetComponent<Animator>();
     }
 
     // Update is called once per frame
     void Update()
     {
+        anim.SetBool("side", true);
         if (movingLeft)
         {
             if(enemy.position.x <= rightEdge.position.x)

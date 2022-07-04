@@ -36570,6 +36570,25 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 4414938079524529045, guid: 8b0768f71e76260468ea4ba9e4d89dee, type: 3}
   m_PrefabInstance: {fileID: 4414938080137411291}
   m_PrefabAsset: {fileID: 0}
+--- !u!95 &1204414853
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1204414852}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 0111faba106ad944d96a0bf7ee6d8ca5, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!114 &1204414857
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38141,7 +38160,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8372030784891691971, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -25.38
+      value: -14.71
       objectReference: {fileID: 0}
     - target: {fileID: 8372030785170507788, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: m_Sprite
