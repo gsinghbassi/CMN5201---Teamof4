@@ -6,7 +6,7 @@ public class Lightmovement : MonoBehaviour
 {
     float hold;
     float hold2;
-    bool right;
+    public bool right;
     float pos;
     // Start is called before the first frame update
     void Start()
@@ -28,13 +28,13 @@ public class Lightmovement : MonoBehaviour
     void Update()
     {
 
-        hold = transform.localPosition.x;
-        if (transform.localPosition.x > hold2)
+        hold = transform.position.x;
+        if (transform.localPosition.x < hold2)
         {
             transform.localPosition = new Vector3(2.32f, 0.06f, 0);
             transform.rotation = Quaternion.Euler(0, 0, 180);
         }
-        if (transform.localPosition.x < hold2)
+        else
         {
             transform.localPosition = new Vector3(-2.34f, -0.28f, 0);
             transform.rotation = Quaternion.Euler(0, 0, 0);
