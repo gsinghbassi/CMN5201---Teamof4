@@ -6,15 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Indie level desighn.unity
+    guid: 24380e68c64100a439220481332a9d83
+  - enabled: 1
     path: Assets/Scenes/Start Menu.unity
     guid: d45ced1927e26354da4a58d8e3227c54
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Weopon test.unity
     guid: cf566d79904e9b1498560be2de3993e4
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Healthbar.unity
     guid: eb67c6dcd32f7dd40a363ffbeba3cd56
   m_configObjects: {}
