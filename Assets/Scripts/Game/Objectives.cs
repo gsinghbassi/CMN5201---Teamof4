@@ -6,8 +6,8 @@ using UnityEngine.UI;
 public class Objectives : MonoBehaviour
 {
     public GameObject objectives;
-    public Toggle On;
-    public Toggle Off;
+    public bool isOn;
+    public bool isOff;
     public GameObject toggleForObjective1;
     public GameObject toggleForObjective2;
     public GameObject toggleForObjective3;
@@ -25,16 +25,19 @@ public class Objectives : MonoBehaviour
         
     }
 
-    public void OnTriggerEnter2D(Collision2D collision)
+    public void OnTriggerEnter2D(Collider2D collision)
     {
+
         if (collision.gameObject.tag == "Guitar")
         {
-            
-        
+            isOn = true;
+            Debug.Log("The Guitar has been picked up !!!");
+
         }
         else
         {
-            
+            isOn = false;
+            Debug.Log("The Guitar has not been picked up !!!");
         }
     }
 

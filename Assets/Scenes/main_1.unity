@@ -8762,7 +8762,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1538925807}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.12, y: -12.7, z: -0.09}
+  m_LocalPosition: {x: 3.48, y: -2.98, z: -0.09}
   m_LocalScale: {x: 4, y: 4, z: 4}
   m_Children: []
   m_Father: {fileID: 0}
@@ -9523,8 +9523,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   objectives: {fileID: 1899885093}
-  toggleon: 0
-  toggleoff: 0
+  isOn: 0
+  isOff: 0
+  toggleForObjective1: {fileID: 1995158278}
+  toggleForObjective2: {fileID: 721001190}
+  toggleForObjective3: {fileID: 905262903}
 --- !u!1 &1925022269
 GameObject:
   m_ObjectHideFlags: 0
