@@ -1,12 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using TMPro;
+using UnityEngine.UI;
 
 public class Objectives : MonoBehaviour
 {
     public GameObject objectives;
-    public TextMeshProUGUI Objective1;
+    public Toggle On;
+    public Toggle Off;
+    public GameObject toggleForObjective1;
+    public GameObject toggleForObjective2;
+    public GameObject toggleForObjective3;
+    
+
     // Start is called before the first frame update
     void Start()
     {
@@ -16,6 +22,20 @@ public class Objectives : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
+        
     }
+
+    public void OnTriggerEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Guitar")
+        {
+            
+        
+        }
+        else
+        {
+            
+        }
+    }
+
 }

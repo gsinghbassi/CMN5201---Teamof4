@@ -13,6 +13,9 @@ TagManager:
   - Guitar
   - Violin
   - Score
+  - ToggleBanjo
+  - ToggleViolin
+  - ToggleGuitar
   layers:
   - Default
   - TransparentFX
