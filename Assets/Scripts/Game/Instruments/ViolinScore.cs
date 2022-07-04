@@ -13,9 +13,9 @@ public class ViolinScore : MonoBehaviour
         rb.velocity = transform.right * speed;
     }
 
-    private void OnCollisionEnter2D(Collider2D other)
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        Debug.Log("collision with " + other.tag); //debugs whatever has just collided
+        Debug.Log("collision with " + other.gameObject.tag); //debugs whatever has just collided
 
         if (other.gameObject.CompareTag("Hunter"))
         {
