@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Indie level desighn.unity
+    guid: 24380e68c64100a439220481332a9d83
+  - enabled: 1
     path: Assets/Scenes/Start Menu.unity
     guid: d45ced1927e26354da4a58d8e3227c54
   - enabled: 1
