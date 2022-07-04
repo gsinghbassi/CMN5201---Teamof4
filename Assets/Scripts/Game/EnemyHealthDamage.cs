@@ -30,7 +30,7 @@ public class EnemyHealthDamage : MonoBehaviour
         if (collision.gameObject.tag == "Score") 
         {
             TakenDamage(1);
-            //Debug.Log("damage taken by 1");
+            Debug.Log("damage taken by enmy from " + collision.gameObject.tag);
             Destroy(collision.gameObject);
         }
     }
