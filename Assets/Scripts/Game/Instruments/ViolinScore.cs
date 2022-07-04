@@ -13,8 +13,10 @@ public class ViolinScore : MonoBehaviour
         rb.velocity = transform.right * speed;
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnCollisionEnter2D(Collider2D other)
     {
+        Debug.Log("collision with " + other.tag); //debugs whatever has just collided
+
         if (other.gameObject.CompareTag("Hunter"))
         {
             Destroy(other.gameObject);
@@ -22,7 +24,9 @@ public class ViolinScore : MonoBehaviour
         }
         if (other.gameObject.CompareTag("Walls"))
         {
+            Debug.Log("Wall has been hit");
             Destroy(gameObject);
+            
         }
 
     }
