@@ -12,12 +12,12 @@ public class MusicScore : MonoBehaviour
     {
         rb.velocity= transform.right *speed;
     }
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnCollisionEnter2D(Collision2D other)
     {
 
         if (other.gameObject.CompareTag("Hunter"))
         {
-            Destroy(other.gameObject);
+            //Destroy(other.gameObject);
             Destroy(gameObject);
         }
         if (other.gameObject.CompareTag("Walls"))
