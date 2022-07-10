@@ -1198,7 +1198,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 9.755707, y: -0.64559937}
+  m_AnchoredPosition: {x: 9.755737, y: -0.6456299}
   m_SizeDelta: {x: -221.3607, y: -93.8628}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &255172631
@@ -40143,6 +40143,7 @@ MonoBehaviour:
   Score: {fileID: 1359582688878795211, guid: 101c6399b38c8934b846425a0c37eade, type: 3}
   guitarIcon: {fileID: 923562357}
   guitarPickUpSFX: {fileID: 1081266321}
+  guitarAttackSound: {fileID: 1081266312}
 --- !u!82 &1081266312
 AudioSource:
   m_ObjectHideFlags: 0

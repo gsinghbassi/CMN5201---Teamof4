@@ -19,6 +19,8 @@ public class GuitarAttack : MonoBehaviour
 
     [SerializeField] private AudioSource guitarPickUpSFX;
 
+    [SerializeField] AudioSource guitarAttackSound;
+
     private void Start()
     {
         guitarIcon.SetActive(false);
@@ -60,6 +62,7 @@ public class GuitarAttack : MonoBehaviour
             if (collision.gameObject.tag == "Guitar")
             {
                 guitarPickUpSFX.Play();
+                guitarAttackSound.Play();
                 Destroy(collision.gameObject);
                 guitar++;
                 guitartext.text = "Guitar: " + guitar;
