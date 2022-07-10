@@ -12,6 +12,8 @@ public class CharacterController : MonoBehaviour
     public enum Direction { up, down, left, right };
     public Direction myDirection;
 
+   
+
 
     // Start is called before the first frame update
     void Start()
@@ -28,21 +30,25 @@ public class CharacterController : MonoBehaviour
 
         if (Input.GetAxis("Horizontal") > 0.0f)
         {
+            
             spriteRenderer.sprite = right;
             myDirection = Direction.right;
         }
         else if (Input.GetAxis("Vertical") < 0.0f)
         {
+            
             spriteRenderer.sprite = down;
             myDirection = Direction.down;
         }
         else if (Input.GetAxis("Horizontal") < 0.0f)
         {
+            
             spriteRenderer.sprite = left;
             myDirection = Direction.left;
         }
         else if (Input.GetAxis("Vertical") > 0.0f)
         {
+            
             spriteRenderer.sprite = up;
             myDirection = Direction.up;
         }

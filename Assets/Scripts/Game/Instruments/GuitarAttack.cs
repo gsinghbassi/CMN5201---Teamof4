@@ -17,6 +17,8 @@ public class GuitarAttack : MonoBehaviour
     private int counter = 0;
     private bool isInInventory = false;
 
+    [SerializeField] private AudioSource guitarPickUpSFX;
+
     private void Start()
     {
         guitarIcon.SetActive(false);
@@ -57,6 +59,7 @@ public class GuitarAttack : MonoBehaviour
 
             if (collision.gameObject.tag == "Guitar")
             {
+                guitarPickUpSFX.Play();
                 Destroy(collision.gameObject);
                 guitar++;
                 guitartext.text = "Guitar: " + guitar;
