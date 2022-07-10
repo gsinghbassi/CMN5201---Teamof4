@@ -16,6 +16,8 @@ public class BanjoAttack : MonoBehaviour
 
     public CharacterController myCharacterController;
 
+    [SerializeField] private AudioSource banjoPickUpSFX;
+
     private void Start()
     {
         banjoIcon.SetActive(false);
@@ -70,6 +72,7 @@ public class BanjoAttack : MonoBehaviour
 
             if (collision.gameObject.tag == "Banjo")
             {
+                banjoPickUpSFX.Play();
                 Destroy(collision.gameObject);
                 banjo++;
                 banjotext.text = "Banjo: " + banjo;

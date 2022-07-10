@@ -16,6 +16,8 @@ public class ViolinAttack : MonoBehaviour
 
     public CharacterController myCharacterController;
 
+    [SerializeField] private AudioSource violinPickUpSFX;
+
     private void Start()
     {
         ViolinIcon.SetActive(false);
@@ -70,6 +72,7 @@ public class ViolinAttack : MonoBehaviour
 
             if (collision.gameObject.tag == "Violin")
             {
+                violinPickUpSFX.Play();
                 Destroy(collision.gameObject);
                 violin++;
                 violintext.text = "Violin: " + violin;
