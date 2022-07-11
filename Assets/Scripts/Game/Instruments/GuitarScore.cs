@@ -5,10 +5,12 @@ using UnityEngine;
 public class GuitarScore : MonoBehaviour
 {
     [SerializeField] Rigidbody2D rb;
+
+    [SerializeField] private AudioSource guitarAttackSFX;
     // Start is called before the first frame update
     void Start()
     {
-        
+        guitarAttackSFX.Play();
     }
 
 

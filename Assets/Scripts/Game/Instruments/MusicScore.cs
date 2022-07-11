@@ -6,11 +6,14 @@ public class MusicScore : MonoBehaviour
 {
     [SerializeField] float speed;
     [SerializeField] Rigidbody2D rb;
-    
+
+    [SerializeField] private AudioSource banjoAttackSFX;
+
     // Start is called before the first frame update
     void Start()
     {
         rb.velocity= transform.right *speed;
+        banjoAttackSFX.Play();
     }
     private void OnCollisionEnter2D(Collision2D other)
     {

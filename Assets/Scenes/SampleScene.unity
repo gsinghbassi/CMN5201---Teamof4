@@ -39865,7 +39865,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 9b5a1895d80cc2c4685827881ac64ffe, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.153
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -39961,7 +39961,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 6f980da9f2f9ae44c9a4f7c22cf9bcef, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.045
+  m_Volume: 0.1
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -40143,7 +40143,6 @@ MonoBehaviour:
   Score: {fileID: 1359582688878795211, guid: 101c6399b38c8934b846425a0c37eade, type: 3}
   guitarIcon: {fileID: 923562357}
   guitarPickUpSFX: {fileID: 1081266321}
-  guitarAttackSound: {fileID: 1081266312}
 --- !u!82 &1081266312
 AudioSource:
   m_ObjectHideFlags: 0
