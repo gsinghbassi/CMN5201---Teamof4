@@ -147,7 +147,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   rb: {fileID: 7829972165561525483}
-  banjoAttackSFX: {fileID: 0}
+  banjoAttackSFX: {fileID: -8152176606874642050}
 --- !u!82 &-8152176606874642050
 AudioSource:
   m_ObjectHideFlags: 0

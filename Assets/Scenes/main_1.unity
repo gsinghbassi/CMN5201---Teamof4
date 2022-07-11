@@ -491,7 +491,7 @@ PolygonCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -807,6 +807,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f3368ed2c3abb3449fb839938847bca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  right: 0
 --- !u!1 &169933328
 GameObject:
   m_ObjectHideFlags: 0
@@ -7877,6 +7878,7 @@ MonoBehaviour:
   ScoreLifeSpan: 0.8
   Score: {fileID: 1359582688878795211, guid: 101c6399b38c8934b846425a0c37eade, type: 3}
   guitarIcon: {fileID: 923562357}
+  guitarPickUpSFX: {fileID: 0}
 --- !u!114 &1081266313 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 8372030785170507790, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
@@ -7934,6 +7936,7 @@ MonoBehaviour:
   musicScorePrefab: {fileID: 1395152098126075743, guid: c8c2206d28f1ee54d96101664fbada6e, type: 3}
   banjoIcon: {fileID: 1028656937}
   myCharacterController: {fileID: 1081266313}
+  banjoPickUpSFX: {fileID: 0}
 --- !u!114 &1081266318
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7954,6 +7957,7 @@ MonoBehaviour:
   musicScorePrefab: {fileID: 2040040186257480380, guid: bdc96806fa9826b4e94993c23b247a33, type: 3}
   ViolinIcon: {fileID: 1388936623}
   myCharacterController: {fileID: 1081266313}
+  violinPickUpSFX: {fileID: 0}
 --- !u!1 &1102279441
 GameObject:
   m_ObjectHideFlags: 0

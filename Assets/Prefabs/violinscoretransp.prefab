@@ -147,6 +147,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 6
   rb: {fileID: 2939000837387848773}
+  ViolinAttackSFX: {fileID: 4527780220401662707}
 --- !u!82 &4527780220401662707
 AudioSource:
   m_ObjectHideFlags: 0
