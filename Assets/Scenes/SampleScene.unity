@@ -694,7 +694,7 @@ GameObject:
   - component: {fileID: 136934379}
   - component: {fileID: 136934380}
   - component: {fileID: 136934378}
-  m_Layer: 0
+  m_Layer: 1
   m_Name: torchlighttransp
   m_TagString: Light
   m_Icon: {fileID: 0}
@@ -40053,7 +40053,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1040254150}
   - component: {fileID: 1040254149}
-  m_Layer: 1
+  m_Layer: 5
   m_Name: Circle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40597,7 +40597,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -14, y: 82.7}
+  m_AnchoredPosition: {x: -4.6, y: 57}
   m_SizeDelta: {x: 84.1787, y: 14.7372}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1268803230
@@ -42164,6 +42164,14 @@ PrefabInstance:
       propertyPath: m_Offset.y
       value: 0.004902914
       objectReference: {fileID: 0}
+    - target: {fileID: 981913938, guid: 8b0768f71e76260468ea4ba9e4d89dee, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 981913938, guid: 8b0768f71e76260468ea4ba9e4d89dee, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 981913940, guid: 8b0768f71e76260468ea4ba9e4d89dee, type: 3}
       propertyPath: patrolPoints.Array.data[0]
       value: 
@@ -42190,11 +42198,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4414938079524529033, guid: 8b0768f71e76260468ea4ba9e4d89dee, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.12
+      value: 5.19
       objectReference: {fileID: 0}
     - target: {fileID: 4414938079524529033, guid: 8b0768f71e76260468ea4ba9e4d89dee, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -9.08
+      value: -8.85
       objectReference: {fileID: 0}
     - target: {fileID: 4414938079524529033, guid: 8b0768f71e76260468ea4ba9e4d89dee, type: 3}
       propertyPath: m_LocalPosition.z
