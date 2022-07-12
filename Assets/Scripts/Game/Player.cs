@@ -14,33 +14,77 @@ public class Player : MonoBehaviour
     private bool gameOver;
 
     public HealthBar healthBar;
+    float damagedelay;
+
+    Color healthy;
+    Color damage;
+    SpriteRenderer Doll;
 
     public GameObject gameOverScreen;
 
     // Start is called before the first frame update
     void Start()
     {
+        healthy = new Color(1f, 1f, 1f, 1f);
+        damage = new Color(1f, 0f, 0f, 1f);
+
+        Doll = GetComponent<SpriteRenderer>();
+        Doll.color = healthy;
+
         Slider slider = GetComponent<Slider>(); 
         currenthealth = maxhealth;
         healthBar.SetMaxHealth(maxhealth);
     }
 
     // Update is called once per frame
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnCollisionStay2D(Collision2D collision)
     {
         if (collision.gameObject.tag == "Hunter")
         {
             TakenDamage(1);
+            Doll.color = damage;
         }
-        /*TakenDamage(1);*/
+
     }
-    
+    private void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Hunter")
+        {
+            Doll.color = healthy;
+        }
+
+    }
+    private void OnTriggerStay2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Light")
+        {
+            TakenDamage(1);
+            Doll.color = damage;
+        }
+
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Light")
+        {
+            Doll.color = healthy;
+        }
+
+    }
+
+
     public void TakenDamage(int Damage)
     {
-        currenthealth -= Damage;
+        if (Time.time > damagedelay)
+        {
+            currenthealth -= Damage;
+            healthBar.SetHealth(currenthealth);
+            damagedelay = Time.time + 1f;
+        }
 
-        healthBar.SetHealth(currenthealth);
     }
+
 
 
     private void Update()
@@ -59,13 +103,11 @@ public class Player : MonoBehaviour
     }
 
 
-    private void OnTriggerEnter2D(Collider2D collision)
+
+    IEnumerator HealthySkin()
     {
-        if (collision.gameObject.tag == "Light")
-        {
-            TakenDamage(1);
-        }
-        /*TakenDamage(1);*/
+        yield return new WaitForSeconds(5f);
+        Doll.color = healthy;
     }
 
 }
