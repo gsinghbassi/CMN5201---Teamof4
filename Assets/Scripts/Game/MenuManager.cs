@@ -8,14 +8,18 @@ public class MenuManager : MonoBehaviour
     public GameObject PauseMenu;
     public bool isPaused;
 
+    [SerializeField] private AudioSource pauseMenuSFX;
+
 
     // Update is called once per frame
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
+            pauseMenuSFX.Play();
             if (isPaused)
             {
+
                 ResumeGame();
             }
             else

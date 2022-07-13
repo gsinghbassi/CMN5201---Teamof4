@@ -19,6 +19,8 @@ public class GuitarAttack : MonoBehaviour
 
     [SerializeField] private AudioSource guitarPickUpSFX;
 
+    [SerializeField] private AudioSource guitarAttackSFX;
+
     private void Start()
     {
         guitarIcon.SetActive(false);
@@ -45,6 +47,7 @@ public class GuitarAttack : MonoBehaviour
     }
     public void Shoot()
     {
+        guitarAttackSFX.Play();
         Rigidbody2D clone;
         clone = Instantiate(Score, transform.position, transform.rotation);
         Destroy(clone.gameObject,ScoreLifeSpan);
