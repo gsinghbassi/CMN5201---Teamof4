@@ -3601,6 +3601,7 @@ GameObject:
   - component: {fileID: 763650379}
   - component: {fileID: 763650380}
   - component: {fileID: 763650382}
+  - component: {fileID: 763650383}
   - component: {fileID: 763650381}
   m_Layer: 0
   m_Name: Tilemap
@@ -42220,7 +42221,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 763650373}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1bde44fc574f4e74e982017c22199e8d, type: 3}
   m_Name: 
@@ -42236,8 +42237,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: d61dea0dddfad754faaadeac1465f4bb, type: 3}
-  m_PlayOnAwake: 0
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
   m_Volume: 0.28
   m_Pitch: 1
   Loop: 0
@@ -42322,6 +42323,25 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &763650383
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 763650373}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1e492c7d1ba45f747b7cf8110529ce44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioSource: {fileID: 763650382}
+  audioClipArray:
+  - {fileID: 8300000, guid: 884c9d10790a3fc43b686b81902a987e, type: 3}
+  - {fileID: 8300000, guid: 286c1267f9210134da5616cf01686e2e, type: 3}
+  - {fileID: 8300000, guid: a51bd7be4b6a8f44d8ef0714c86a8fbc, type: 3}
+  - {fileID: 8300000, guid: 6b70e234f108ff44887d14d2004b372c, type: 3}
+  - {fileID: 8300000, guid: d61dea0dddfad754faaadeac1465f4bb, type: 3}
 --- !u!1 &767491198
 GameObject:
   m_ObjectHideFlags: 0
@@ -46226,11 +46246,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8372030784891691971, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 28.7
+      value: 0.63
       objectReference: {fileID: 0}
     - target: {fileID: 8372030784891691971, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -24.2
+      value: -13.28
       objectReference: {fileID: 0}
     - target: {fileID: 8372030784891691971, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: m_LocalPosition.z
