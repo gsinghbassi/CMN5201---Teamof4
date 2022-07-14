@@ -46152,6 +46152,10 @@ PrefabInstance:
       propertyPath: guitarAttackSFX
       value: 
       objectReference: {fileID: 653763431}
+    - target: {fileID: 1081266312, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: 8563237624487010548, guid: 03f837ada4e3cc84486bdac1d571d782, type: 2}
     - target: {fileID: 1081266316, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: m_Enabled
       value: 0
@@ -46222,11 +46226,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8372030784891691971, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 5.4
+      value: 28.7
       objectReference: {fileID: 0}
     - target: {fileID: 8372030784891691971, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -27.6
+      value: -24.2
       objectReference: {fileID: 0}
     - target: {fileID: 8372030784891691971, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: m_LocalPosition.z
