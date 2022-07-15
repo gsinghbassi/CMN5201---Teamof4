@@ -18,11 +18,11 @@ public class MusicScore : MonoBehaviour
     private void OnCollisionEnter2D(Collision2D other)
     {
 
-        if (other.gameObject.CompareTag("Hunter"))
-        {
+       // if (other.gameObject.CompareTag("Hunter"))
+        //{
             //Destroy(other.gameObject);
-            Destroy(gameObject);
-        }
+            //Destroy(gameObject);
+       //}
         if (other.gameObject.CompareTag("Walls"))
         {
             Destroy(gameObject);

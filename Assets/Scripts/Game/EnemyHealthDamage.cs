@@ -19,11 +19,11 @@ public class EnemyHealthDamage : MonoBehaviour
         healthBar.SetMaxHealth(maxhealth);
     }
 
-    // Update is called once per frame
-   /* void Update()
+     
+   void Update()
     {
         
-    }*/
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -41,4 +41,6 @@ public class EnemyHealthDamage : MonoBehaviour
 
         healthBar.SetHealth(currenthealth);
     }
+
+   
 }
