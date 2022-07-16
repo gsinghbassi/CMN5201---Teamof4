@@ -6,7 +6,7 @@ public class PlayOnCollisionRandom: MonoBehaviour
 {
     public AudioSource audioSource;
     public AudioClip[] audioClipArray;
-    AudioClip lastClip;
+    
 
     AudioClip RandomClip()
     {
