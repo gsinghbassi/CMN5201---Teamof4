@@ -16,18 +16,15 @@ public class GuitarScore : MonoBehaviour
 
 
 
-    private void OnTriggerEnter2D(Collider2D other)
-    {
-        if (other.gameObject.CompareTag("Hunter"))
-        {
+    //private void OnTriggerEnter2D(Collider2D other)
+    //{
+        //if (other.gameObject.CompareTag("Hunter"))
+        //{
             //Destroy(other.gameObject);
-            Destroy(gameObject);
-        }
-        if (other.gameObject.CompareTag("Walls"))
-        {
-            Destroy(gameObject);
-        }
+            //Destroy(gameObject);
+        //}
+       
 
-    }
+   // }
 }
 

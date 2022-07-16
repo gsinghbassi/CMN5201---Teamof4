@@ -20,11 +20,11 @@ public class ViolinScore : MonoBehaviour
     {
         Debug.Log("collision with " + other.gameObject.tag); //debugs whatever has just collided
 
-        if (other.gameObject.CompareTag("Hunter"))
-        {
+        //if (other.gameObject.CompareTag("Hunter"))
+        //{
             //Destroy(other.gameObject);
-            Destroy(gameObject);
-        }
+            //Destroy(gameObject);
+        //}
         if (other.gameObject.CompareTag("Walls"))
         {
             Debug.Log("Wall has been hit");
