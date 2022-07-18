@@ -18,7 +18,7 @@ public class Player : MonoBehaviour
 
     Color healthy;
     Color damage;
-    SpriteRenderer Doll;
+    public SpriteRenderer Doll;
 
     public GameObject gameOverScreen;
 
@@ -28,7 +28,7 @@ public class Player : MonoBehaviour
         healthy = new Color(1f, 1f, 1f, 1f);
         damage = new Color(1f, 0f, 0f, 1f);
 
-        Doll = GetComponent<SpriteRenderer>();
+        //Doll = GetComponent<SpriteRenderer>();
         Doll.color = healthy;
 
         Slider slider = GetComponent<Slider>(); 

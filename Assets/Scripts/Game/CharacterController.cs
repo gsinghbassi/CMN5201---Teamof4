@@ -7,7 +7,7 @@ public class CharacterController : MonoBehaviour
     Rigidbody2D DollRigidbody;
     public float speed;
     Vector2 direction;
-    SpriteRenderer spriteRenderer;
+    public SpriteRenderer spriteRenderer;
     public Sprite left, right, up, down;
     public enum Direction { up, down, left, right };
     public Direction myDirection;
@@ -19,7 +19,7 @@ public class CharacterController : MonoBehaviour
     void Start()
     {
        DollRigidbody = GetComponent<Rigidbody2D>();
-       spriteRenderer  = GetComponent<SpriteRenderer>();
+       //spriteRenderer  = GetComponent<SpriteRenderer>();
        
     }
 
