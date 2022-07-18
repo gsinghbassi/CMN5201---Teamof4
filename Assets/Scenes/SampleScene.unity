@@ -45643,6 +45643,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 31387487, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 31387487, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 169933329, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.31
+      objectReference: {fileID: 0}
+    - target: {fileID: 169933329, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.35
+      objectReference: {fileID: 0}
     - target: {fileID: 1081266311, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: guitarIcon
       value: 
