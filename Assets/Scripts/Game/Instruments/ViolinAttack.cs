@@ -33,7 +33,7 @@ public class ViolinAttack : MonoBehaviour
                
             }
         }
-        if (counter == 3)
+        if (counter == 300000)
         {
             inventoryViolin = false;
             ViolinIcon.SetActive(false);
