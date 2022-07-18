@@ -1938,6 +1938,11 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!4 &656433003 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 31387487, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+  m_PrefabInstance: {fileID: 2935718307606439453}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &689196130
 GameObject:
   m_ObjectHideFlags: 0
@@ -2179,6 +2184,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!4 &709598793 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 169933329, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+  m_PrefabInstance: {fileID: 2935718307606439453}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &721001190
 GameObject:
   m_ObjectHideFlags: 0
@@ -2265,6 +2275,11 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_IsOn: 0
+--- !u!4 &723869863 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1460846025, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+  m_PrefabInstance: {fileID: 2935718307606439453}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &763650373
 GameObject:
   m_ObjectHideFlags: 0
@@ -7888,6 +7903,11 @@ RectTransform:
   m_AnchoredPosition: {x: 9.006287, y: 5.5654907}
   m_SizeDelta: {x: -328.9308, y: -88.9079}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!4 &1198277803 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 438076080, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+  m_PrefabInstance: {fileID: 2935718307606439453}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1204414852 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4414938079524529045, guid: 8b0768f71e76260468ea4ba9e4d89dee, type: 3}
@@ -8809,6 +8829,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1720480690}
   m_CullTransparentMesh: 1
+--- !u!4 &1772615716 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 811533340, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+  m_PrefabInstance: {fileID: 2935718307606439453}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1793102224
 GameObject:
   m_ObjectHideFlags: 0
@@ -8963,6 +8988,11 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1810210499}
   m_CullTransparentMesh: 1
+--- !u!4 &1824396856 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1135749055, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+  m_PrefabInstance: {fileID: 2935718307606439453}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1869893518
 GameObject:
   m_ObjectHideFlags: 0
@@ -9782,6 +9812,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &2021348311 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 135957950, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+  m_PrefabInstance: {fileID: 2935718307606439453}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2028976046
 GameObject:
   m_ObjectHideFlags: 0
@@ -9944,6 +9979,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 31387487, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.09
+      objectReference: {fileID: 0}
+    - target: {fileID: 31387487, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.57
+      objectReference: {fileID: 0}
+    - target: {fileID: 169933329, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 169933329, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.71
+      objectReference: {fileID: 0}
+    - target: {fileID: 438076080, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.96
+      objectReference: {fileID: 0}
+    - target: {fileID: 438076080, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.01
+      objectReference: {fileID: 0}
     - target: {fileID: 1081266317, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: banjoIcon
       value: 
@@ -9952,6 +10011,22 @@ PrefabInstance:
       propertyPath: banjotext
       value: 
       objectReference: {fileID: 417861559}
+    - target: {fileID: 1081266317, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: attackingPointUp
+      value: 
+      objectReference: {fileID: 2021348311}
+    - target: {fileID: 1081266317, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: attackingPointDown
+      value: 
+      objectReference: {fileID: 709598793}
+    - target: {fileID: 1081266317, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: attackingPointLeft
+      value: 
+      objectReference: {fileID: 723869863}
+    - target: {fileID: 1081266317, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: attackingPointRight
+      value: 
+      objectReference: {fileID: 1772615716}
     - target: {fileID: 1081266318, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: ViolinIcon
       value: 
@@ -9960,6 +10035,30 @@ PrefabInstance:
       propertyPath: violintext
       value: 
       objectReference: {fileID: 1338962388}
+    - target: {fileID: 1081266318, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: attackingPointUp
+      value: 
+      objectReference: {fileID: 656433003}
+    - target: {fileID: 1081266318, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: attackingPointDown
+      value: 
+      objectReference: {fileID: 709598793}
+    - target: {fileID: 1081266318, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: attackingPointLeft
+      value: 
+      objectReference: {fileID: 1198277803}
+    - target: {fileID: 1081266318, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: attackingPointRight
+      value: 
+      objectReference: {fileID: 1824396856}
+    - target: {fileID: 1135749055, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1135749055, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.46
+      objectReference: {fileID: 0}
     - target: {fileID: 5082433881989777000, guid: 983a31ca8cc72fc478a1729dd0e4e681, type: 3}
       propertyPath: banjoIcon
       value: 
