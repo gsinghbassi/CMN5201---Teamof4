@@ -35,7 +35,7 @@ public class BanjoAttack : MonoBehaviour
                 counter++;
             }
         }
-        if (counter == 2)
+        if (counter == 2) // TODO will do more damage later
         {
             inventoryBanjo = false;
             banjoIcon.SetActive(false);
