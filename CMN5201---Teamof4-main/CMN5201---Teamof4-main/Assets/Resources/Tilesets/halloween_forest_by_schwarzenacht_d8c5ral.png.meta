@@ -1,0 +1,6252 @@
+fileFormatVersion: 2
+guid: 9414aa3f619014d4ab84172f633c9aaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1253340965113762074
+    second: halloween_forest_by_schwarzenacht_d8c5ral_0
+  - first:
+      213: 2050692794751223716
+    second: halloween_forest_by_schwarzenacht_d8c5ral_1
+  - first:
+      213: -5553987224835514046
+    second: halloween_forest_by_schwarzenacht_d8c5ral_2
+  - first:
+      213: -8512034497633797722
+    second: halloween_forest_by_schwarzenacht_d8c5ral_3
+  - first:
+      213: -5575788445848867955
+    second: halloween_forest_by_schwarzenacht_d8c5ral_4
+  - first:
+      213: 8393298397815053641
+    second: halloween_forest_by_schwarzenacht_d8c5ral_5
+  - first:
+      213: -9005242227284871732
+    second: halloween_forest_by_schwarzenacht_d8c5ral_6
+  - first:
+      213: -8210446442772374675
+    second: halloween_forest_by_schwarzenacht_d8c5ral_7
+  - first:
+      213: -7290635661237538616
+    second: halloween_forest_by_schwarzenacht_d8c5ral_8
+  - first:
+      213: -7979394066048318890
+    second: halloween_forest_by_schwarzenacht_d8c5ral_9
+  - first:
+      213: 2831072130511690421
+    second: halloween_forest_by_schwarzenacht_d8c5ral_10
+  - first:
+      213: 7078359065185164669
+    second: halloween_forest_by_schwarzenacht_d8c5ral_11
+  - first:
+      213: -1059129277123123907
+    second: halloween_forest_by_schwarzenacht_d8c5ral_12
+  - first:
+      213: -2714900123499783409
+    second: halloween_forest_by_schwarzenacht_d8c5ral_13
+  - first:
+      213: -7935745385468303081
+    second: halloween_forest_by_schwarzenacht_d8c5ral_14
+  - first:
+      213: 2553199226040426518
+    second: halloween_forest_by_schwarzenacht_d8c5ral_15
+  - first:
+      213: 8474992391138133003
+    second: halloween_forest_by_schwarzenacht_d8c5ral_16
+  - first:
+      213: -7452295926615434234
+    second: halloween_forest_by_schwarzenacht_d8c5ral_17
+  - first:
+      213: 2785597175841160805
+    second: halloween_forest_by_schwarzenacht_d8c5ral_18
+  - first:
+      213: -6738818327248046961
+    second: halloween_forest_by_schwarzenacht_d8c5ral_19
+  - first:
+      213: -2451278771506337499
+    second: halloween_forest_by_schwarzenacht_d8c5ral_20
+  - first:
+      213: -2266380666155798131
+    second: halloween_forest_by_schwarzenacht_d8c5ral_21
+  - first:
+      213: 5147614000724338463
+    second: halloween_forest_by_schwarzenacht_d8c5ral_22
+  - first:
+      213: -4110716402300705154
+    second: halloween_forest_by_schwarzenacht_d8c5ral_23
+  - first:
+      213: 796768735694829726
+    second: halloween_forest_by_schwarzenacht_d8c5ral_24
+  - first:
+      213: -9218247977946733628
+    second: halloween_forest_by_schwarzenacht_d8c5ral_25
+  - first:
+      213: -4908683873273202659
+    second: halloween_forest_by_schwarzenacht_d8c5ral_26
+  - first:
+      213: 5442004825935477910
+    second: halloween_forest_by_schwarzenacht_d8c5ral_27
+  - first:
+      213: 778805491915143197
+    second: halloween_forest_by_schwarzenacht_d8c5ral_28
+  - first:
+      213: -7096061766663164130
+    second: halloween_forest_by_schwarzenacht_d8c5ral_29
+  - first:
+      213: -7431111016087284614
+    second: halloween_forest_by_schwarzenacht_d8c5ral_30
+  - first:
+      213: -1757226749888930327
+    second: halloween_forest_by_schwarzenacht_d8c5ral_31
+  - first:
+      213: -3156301944770709495
+    second: halloween_forest_by_schwarzenacht_d8c5ral_32
+  - first:
+      213: 7030840333312460547
+    second: halloween_forest_by_schwarzenacht_d8c5ral_33
+  - first:
+      213: 2869444838101422692
+    second: halloween_forest_by_schwarzenacht_d8c5ral_34
+  - first:
+      213: -7750695498221613507
+    second: halloween_forest_by_schwarzenacht_d8c5ral_35
+  - first:
+      213: 9143418311045245288
+    second: halloween_forest_by_schwarzenacht_d8c5ral_36
+  - first:
+      213: 2586637255122861319
+    second: halloween_forest_by_schwarzenacht_d8c5ral_37
+  - first:
+      213: 2692917542501289020
+    second: halloween_forest_by_schwarzenacht_d8c5ral_38
+  - first:
+      213: -4827901671740302969
+    second: halloween_forest_by_schwarzenacht_d8c5ral_39
+  - first:
+      213: -5883706115173486488
+    second: halloween_forest_by_schwarzenacht_d8c5ral_40
+  - first:
+      213: -7334044377606991487
+    second: halloween_forest_by_schwarzenacht_d8c5ral_41
+  - first:
+      213: -7178958301366472355
+    second: halloween_forest_by_schwarzenacht_d8c5ral_42
+  - first:
+      213: -6966693363642558597
+    second: halloween_forest_by_schwarzenacht_d8c5ral_43
+  - first:
+      213: 8215295105456649366
+    second: halloween_forest_by_schwarzenacht_d8c5ral_44
+  - first:
+      213: -7813311406804057026
+    second: halloween_forest_by_schwarzenacht_d8c5ral_45
+  - first:
+      213: -2690267796974058681
+    second: halloween_forest_by_schwarzenacht_d8c5ral_46
+  - first:
+      213: -3349419048362237210
+    second: halloween_forest_by_schwarzenacht_d8c5ral_47
+  - first:
+      213: 7577969517253815361
+    second: halloween_forest_by_schwarzenacht_d8c5ral_48
+  - first:
+      213: 7934499940785892597
+    second: halloween_forest_by_schwarzenacht_d8c5ral_49
+  - first:
+      213: -4180227818086764249
+    second: halloween_forest_by_schwarzenacht_d8c5ral_50
+  - first:
+      213: -3228898622044730908
+    second: halloween_forest_by_schwarzenacht_d8c5ral_51
+  - first:
+      213: 6999742108659224441
+    second: halloween_forest_by_schwarzenacht_d8c5ral_52
+  - first:
+      213: 7542447665177246735
+    second: halloween_forest_by_schwarzenacht_d8c5ral_53
+  - first:
+      213: -6625990971504600520
+    second: halloween_forest_by_schwarzenacht_d8c5ral_54
+  - first:
+      213: 7702528829022900805
+    second: halloween_forest_by_schwarzenacht_d8c5ral_55
+  - first:
+      213: 6276998396936882658
+    second: halloween_forest_by_schwarzenacht_d8c5ral_56
+  - first:
+      213: -4828811012351755612
+    second: halloween_forest_by_schwarzenacht_d8c5ral_57
+  - first:
+      213: -8679075057302512416
+    second: halloween_forest_by_schwarzenacht_d8c5ral_58
+  - first:
+      213: 2815532866742088951
+    second: halloween_forest_by_schwarzenacht_d8c5ral_59
+  - first:
+      213: -5224512706659793893
+    second: halloween_forest_by_schwarzenacht_d8c5ral_60
+  - first:
+      213: 4744488394099159383
+    second: halloween_forest_by_schwarzenacht_d8c5ral_61
+  - first:
+      213: 6134187473007201773
+    second: halloween_forest_by_schwarzenacht_d8c5ral_62
+  - first:
+      213: 3056387187123403214
+    second: halloween_forest_by_schwarzenacht_d8c5ral_63
+  - first:
+      213: 1294639960507590761
+    second: halloween_forest_by_schwarzenacht_d8c5ral_64
+  - first:
+      213: 936964182077998421
+    second: halloween_forest_by_schwarzenacht_d8c5ral_65
+  - first:
+      213: 5478628311570262234
+    second: halloween_forest_by_schwarzenacht_d8c5ral_66
+  - first:
+      213: -801274679749056363
+    second: halloween_forest_by_schwarzenacht_d8c5ral_67
+  - first:
+      213: -1471118492484757425
+    second: halloween_forest_by_schwarzenacht_d8c5ral_68
+  - first:
+      213: -1108734392891307965
+    second: halloween_forest_by_schwarzenacht_d8c5ral_69
+  - first:
+      213: 4624631189619947019
+    second: halloween_forest_by_schwarzenacht_d8c5ral_70
+  - first:
+      213: 9042576303321147011
+    second: halloween_forest_by_schwarzenacht_d8c5ral_71
+  - first:
+      213: -3492001516378857174
+    second: halloween_forest_by_schwarzenacht_d8c5ral_72
+  - first:
+      213: 3092888358721612913
+    second: halloween_forest_by_schwarzenacht_d8c5ral_73
+  - first:
+      213: 583094288378480437
+    second: halloween_forest_by_schwarzenacht_d8c5ral_74
+  - first:
+      213: -4688857788117508042
+    second: halloween_forest_by_schwarzenacht_d8c5ral_75
+  - first:
+      213: -8166587916804316677
+    second: halloween_forest_by_schwarzenacht_d8c5ral_76
+  - first:
+      213: 8365688922821252087
+    second: halloween_forest_by_schwarzenacht_d8c5ral_77
+  - first:
+      213: 6874055094027307018
+    second: halloween_forest_by_schwarzenacht_d8c5ral_78
+  - first:
+      213: 5379315795618273267
+    second: halloween_forest_by_schwarzenacht_d8c5ral_79
+  - first:
+      213: -228676958567082090
+    second: halloween_forest_by_schwarzenacht_d8c5ral_80
+  - first:
+      213: -7972948967745820167
+    second: halloween_forest_by_schwarzenacht_d8c5ral_81
+  - first:
+      213: 4326227919478671584
+    second: halloween_forest_by_schwarzenacht_d8c5ral_82
+  - first:
+      213: 4600759731209952996
+    second: halloween_forest_by_schwarzenacht_d8c5ral_83
+  - first:
+      213: 8561644841634667759
+    second: halloween_forest_by_schwarzenacht_d8c5ral_84
+  - first:
+      213: 5467939285902118625
+    second: halloween_forest_by_schwarzenacht_d8c5ral_85
+  - first:
+      213: 2449255103627029990
+    second: halloween_forest_by_schwarzenacht_d8c5ral_86
+  - first:
+      213: -7037327210427086
+    second: halloween_forest_by_schwarzenacht_d8c5ral_87
+  - first:
+      213: -471387385604514401
+    second: halloween_forest_by_schwarzenacht_d8c5ral_88
+  - first:
+      213: 8794422170007339543
+    second: halloween_forest_by_schwarzenacht_d8c5ral_89
+  - first:
+      213: 3959405732330504877
+    second: halloween_forest_by_schwarzenacht_d8c5ral_90
+  - first:
+      213: -4587278104480546584
+    second: halloween_forest_by_schwarzenacht_d8c5ral_91
+  - first:
+      213: -8602690303763693418
+    second: halloween_forest_by_schwarzenacht_d8c5ral_92
+  - first:
+      213: -9032097348837227631
+    second: halloween_forest_by_schwarzenacht_d8c5ral_93
+  - first:
+      213: 2620681680367205554
+    second: halloween_forest_by_schwarzenacht_d8c5ral_94
+  - first:
+      213: -219038886809234590
+    second: halloween_forest_by_schwarzenacht_d8c5ral_95
+  - first:
+      213: 5656694527842203457
+    second: halloween_forest_by_schwarzenacht_d8c5ral_96
+  - first:
+      213: 2627698365356503719
+    second: halloween_forest_by_schwarzenacht_d8c5ral_97
+  - first:
+      213: -6266345570716567058
+    second: halloween_forest_by_schwarzenacht_d8c5ral_98
+  - first:
+      213: -2753937701678125574
+    second: halloween_forest_by_schwarzenacht_d8c5ral_99
+  - first:
+      213: -8787066058195552830
+    second: halloween_forest_by_schwarzenacht_d8c5ral_100
+  - first:
+      213: -1137729701651331018
+    second: halloween_forest_by_schwarzenacht_d8c5ral_101
+  - first:
+      213: -8975274577281879556
+    second: halloween_forest_by_schwarzenacht_d8c5ral_102
+  - first:
+      213: 5042831866069771331
+    second: halloween_forest_by_schwarzenacht_d8c5ral_103
+  - first:
+      213: -1911055652115135512
+    second: halloween_forest_by_schwarzenacht_d8c5ral_104
+  - first:
+      213: 5162904864579219568
+    second: halloween_forest_by_schwarzenacht_d8c5ral_105
+  - first:
+      213: 1819779439729135918
+    second: halloween_forest_by_schwarzenacht_d8c5ral_106
+  - first:
+      213: 3725618129112721539
+    second: halloween_forest_by_schwarzenacht_d8c5ral_107
+  - first:
+      213: 5760461113316506520
+    second: halloween_forest_by_schwarzenacht_d8c5ral_108
+  - first:
+      213: -3885665724441979727
+    second: halloween_forest_by_schwarzenacht_d8c5ral_109
+  - first:
+      213: -7431901990480784156
+    second: halloween_forest_by_schwarzenacht_d8c5ral_110
+  - first:
+      213: -8417778065899949143
+    second: halloween_forest_by_schwarzenacht_d8c5ral_111
+  - first:
+      213: 8128423109090356016
+    second: halloween_forest_by_schwarzenacht_d8c5ral_112
+  - first:
+      213: -126902993302282824
+    second: halloween_forest_by_schwarzenacht_d8c5ral_113
+  - first:
+      213: 6214522762338937234
+    second: halloween_forest_by_schwarzenacht_d8c5ral_114
+  - first:
+      213: 960333058532774018
+    second: halloween_forest_by_schwarzenacht_d8c5ral_115
+  - first:
+      213: 617201538896348612
+    second: halloween_forest_by_schwarzenacht_d8c5ral_116
+  - first:
+      213: -4101765693199043811
+    second: halloween_forest_by_schwarzenacht_d8c5ral_117
+  - first:
+      213: 3469853402555762409
+    second: halloween_forest_by_schwarzenacht_d8c5ral_118
+  - first:
+      213: 2679008937361415087
+    second: halloween_forest_by_schwarzenacht_d8c5ral_119
+  - first:
+      213: 8688035627079031139
+    second: halloween_forest_by_schwarzenacht_d8c5ral_120
+  - first:
+      213: 1853406659785151838
+    second: halloween_forest_by_schwarzenacht_d8c5ral_121
+  - first:
+      213: 8415424608612079482
+    second: halloween_forest_by_schwarzenacht_d8c5ral_122
+  - first:
+      213: -1870341944457556252
+    second: halloween_forest_by_schwarzenacht_d8c5ral_123
+  - first:
+      213: -930648246405675463
+    second: halloween_forest_by_schwarzenacht_d8c5ral_124
+  - first:
+      213: 3076439196418291158
+    second: halloween_forest_by_schwarzenacht_d8c5ral_125
+  - first:
+      213: -1259697073812364793
+    second: halloween_forest_by_schwarzenacht_d8c5ral_126
+  - first:
+      213: -1993483594766107469
+    second: halloween_forest_by_schwarzenacht_d8c5ral_127
+  - first:
+      213: -4720071430578071060
+    second: halloween_forest_by_schwarzenacht_d8c5ral_128
+  - first:
+      213: 4627929067089905056
+    second: halloween_forest_by_schwarzenacht_d8c5ral_129
+  - first:
+      213: -7459212244173405303
+    second: halloween_forest_by_schwarzenacht_d8c5ral_130
+  - first:
+      213: -7162850173930551233
+    second: halloween_forest_by_schwarzenacht_d8c5ral_131
+  - first:
+      213: -8439156970797892887
+    second: halloween_forest_by_schwarzenacht_d8c5ral_132
+  - first:
+      213: 2571122446831623673
+    second: halloween_forest_by_schwarzenacht_d8c5ral_133
+  - first:
+      213: -5648390691046403493
+    second: halloween_forest_by_schwarzenacht_d8c5ral_134
+  - first:
+      213: 2490853765678939925
+    second: halloween_forest_by_schwarzenacht_d8c5ral_135
+  - first:
+      213: 2096931982107890807
+    second: halloween_forest_by_schwarzenacht_d8c5ral_136
+  - first:
+      213: 405825080827093468
+    second: halloween_forest_by_schwarzenacht_d8c5ral_137
+  - first:
+      213: 377679678855565734
+    second: halloween_forest_by_schwarzenacht_d8c5ral_138
+  - first:
+      213: 6132366929330067490
+    second: halloween_forest_by_schwarzenacht_d8c5ral_139
+  - first:
+      213: -6438183974652820957
+    second: halloween_forest_by_schwarzenacht_d8c5ral_140
+  - first:
+      213: 5327111480332273976
+    second: halloween_forest_by_schwarzenacht_d8c5ral_141
+  - first:
+      213: -4102384630361286592
+    second: halloween_forest_by_schwarzenacht_d8c5ral_142
+  - first:
+      213: 488210237414226482
+    second: halloween_forest_by_schwarzenacht_d8c5ral_143
+  - first:
+      213: -2790079691579640453
+    second: halloween_forest_by_schwarzenacht_d8c5ral_144
+  - first:
+      213: -1952677202285420693
+    second: halloween_forest_by_schwarzenacht_d8c5ral_145
+  - first:
+      213: -1660844311601112542
+    second: halloween_forest_by_schwarzenacht_d8c5ral_146
+  - first:
+      213: 1928333609444551371
+    second: halloween_forest_by_schwarzenacht_d8c5ral_147
+  - first:
+      213: 91163345151742022
+    second: halloween_forest_by_schwarzenacht_d8c5ral_148
+  - first:
+      213: 4852417126965030704
+    second: halloween_forest_by_schwarzenacht_d8c5ral_149
+  - first:
+      213: 4550536455230062039
+    second: halloween_forest_by_schwarzenacht_d8c5ral_150
+  - first:
+      213: -4869888720811440864
+    second: halloween_forest_by_schwarzenacht_d8c5ral_151
+  - first:
+      213: 6634305403117835279
+    second: halloween_forest_by_schwarzenacht_d8c5ral_152
+  - first:
+      213: -3622171965784402178
+    second: halloween_forest_by_schwarzenacht_d8c5ral_153
+  - first:
+      213: 7014728314653941052
+    second: halloween_forest_by_schwarzenacht_d8c5ral_154
+  - first:
+      213: -2185609031417661439
+    second: halloween_forest_by_schwarzenacht_d8c5ral_155
+  - first:
+      213: -5901778441234373547
+    second: halloween_forest_by_schwarzenacht_d8c5ral_156
+  - first:
+      213: -7174823651276628020
+    second: halloween_forest_by_schwarzenacht_d8c5ral_157
+  - first:
+      213: 8942458729167155351
+    second: halloween_forest_by_schwarzenacht_d8c5ral_158
+  - first:
+      213: 6695533991185876720
+    second: halloween_forest_by_schwarzenacht_d8c5ral_159
+  - first:
+      213: 1874780319799377394
+    second: halloween_forest_by_schwarzenacht_d8c5ral_160
+  - first:
+      213: 6806306179731893431
+    second: halloween_forest_by_schwarzenacht_d8c5ral_161
+  - first:
+      213: -7059869451115490811
+    second: halloween_forest_by_schwarzenacht_d8c5ral_162
+  - first:
+      213: 8679918141001007410
+    second: halloween_forest_by_schwarzenacht_d8c5ral_163
+  - first:
+      213: -3608618954573945423
+    second: halloween_forest_by_schwarzenacht_d8c5ral_164
+  - first:
+      213: -9186579649984977546
+    second: halloween_forest_by_schwarzenacht_d8c5ral_165
+  - first:
+      213: -3757803966076443269
+    second: halloween_forest_by_schwarzenacht_d8c5ral_166
+  - first:
+      213: 1523526151400545822
+    second: halloween_forest_by_schwarzenacht_d8c5ral_167
+  - first:
+      213: -7237641209535804591
+    second: halloween_forest_by_schwarzenacht_d8c5ral_168
+  - first:
+      213: 9191255121029791176
+    second: halloween_forest_by_schwarzenacht_d8c5ral_169
+  - first:
+      213: -6400022851725713591
+    second: halloween_forest_by_schwarzenacht_d8c5ral_170
+  - first:
+      213: 2869567745466610762
+    second: halloween_forest_by_schwarzenacht_d8c5ral_171
+  - first:
+      213: -5729609753884001735
+    second: halloween_forest_by_schwarzenacht_d8c5ral_172
+  - first:
+      213: 8909733156470545893
+    second: halloween_forest_by_schwarzenacht_d8c5ral_173
+  - first:
+      213: 1469012547439190409
+    second: halloween_forest_by_schwarzenacht_d8c5ral_174
+  - first:
+      213: 2620810127613018389
+    second: halloween_forest_by_schwarzenacht_d8c5ral_175
+  - first:
+      213: 6200115664732172675
+    second: halloween_forest_by_schwarzenacht_d8c5ral_176
+  - first:
+      213: -2325305286970712978
+    second: halloween_forest_by_schwarzenacht_d8c5ral_177
+  - first:
+      213: -1421782248576145267
+    second: halloween_forest_by_schwarzenacht_d8c5ral_178
+  - first:
+      213: -7912050457923127209
+    second: halloween_forest_by_schwarzenacht_d8c5ral_179
+  - first:
+      213: -3051825458277637342
+    second: halloween_forest_by_schwarzenacht_d8c5ral_180
+  - first:
+      213: 465540531113320485
+    second: halloween_forest_by_schwarzenacht_d8c5ral_181
+  - first:
+      213: 7863618373609704067
+    second: halloween_forest_by_schwarzenacht_d8c5ral_182
+  - first:
+      213: -1252316469876570673
+    second: halloween_forest_by_schwarzenacht_d8c5ral_183
+  - first:
+      213: 2107351378413682691
+    second: halloween_forest_by_schwarzenacht_d8c5ral_184
+  - first:
+      213: -133780162114108720
+    second: halloween_forest_by_schwarzenacht_d8c5ral_185
+  - first:
+      213: -4558687174541046056
+    second: halloween_forest_by_schwarzenacht_d8c5ral_186
+  - first:
+      213: -3524276295236050085
+    second: halloween_forest_by_schwarzenacht_d8c5ral_187
+  - first:
+      213: -9154861628416615233
+    second: halloween_forest_by_schwarzenacht_d8c5ral_188
+  - first:
+      213: 4178366713796667145
+    second: halloween_forest_by_schwarzenacht_d8c5ral_189
+  - first:
+      213: -589878495541656156
+    second: halloween_forest_by_schwarzenacht_d8c5ral_190
+  - first:
+      213: 1863653414766332824
+    second: halloween_forest_by_schwarzenacht_d8c5ral_191
+  - first:
+      213: -6245307476454891563
+    second: halloween_forest_by_schwarzenacht_d8c5ral_192
+  - first:
+      213: -8776738007719235641
+    second: halloween_forest_by_schwarzenacht_d8c5ral_193
+  - first:
+      213: 3022653579748515285
+    second: halloween_forest_by_schwarzenacht_d8c5ral_194
+  - first:
+      213: -8881789171278328514
+    second: halloween_forest_by_schwarzenacht_d8c5ral_195
+  - first:
+      213: -7712984967540435533
+    second: halloween_forest_by_schwarzenacht_d8c5ral_196
+  - first:
+      213: 1831558981427551443
+    second: halloween_forest_by_schwarzenacht_d8c5ral_197
+  - first:
+      213: 1737276677538689433
+    second: halloween_forest_by_schwarzenacht_d8c5ral_198
+  - first:
+      213: 7025515407591723576
+    second: halloween_forest_by_schwarzenacht_d8c5ral_199
+  - first:
+      213: 5919193006999008696
+    second: halloween_forest_by_schwarzenacht_d8c5ral_200
+  - first:
+      213: 7024555219099025359
+    second: halloween_forest_by_schwarzenacht_d8c5ral_201
+  - first:
+      213: 4967499877056562144
+    second: halloween_forest_by_schwarzenacht_d8c5ral_202
+  - first:
+      213: -7732597754684004104
+    second: halloween_forest_by_schwarzenacht_d8c5ral_203
+  - first:
+      213: -2001577981560615593
+    second: halloween_forest_by_schwarzenacht_d8c5ral_204
+  - first:
+      213: -4826141001950645165
+    second: halloween_forest_by_schwarzenacht_d8c5ral_205
+  - first:
+      213: -1100767609139739822
+    second: halloween_forest_by_schwarzenacht_d8c5ral_206
+  - first:
+      213: 7754742329999196656
+    second: halloween_forest_by_schwarzenacht_d8c5ral_207
+  - first:
+      213: -3265197438093653539
+    second: halloween_forest_by_schwarzenacht_d8c5ral_208
+  - first:
+      213: 5211385844798449791
+    second: halloween_forest_by_schwarzenacht_d8c5ral_209
+  - first:
+      213: -2907825491188336037
+    second: halloween_forest_by_schwarzenacht_d8c5ral_210
+  - first:
+      213: -2421966988854258853
+    second: halloween_forest_by_schwarzenacht_d8c5ral_211
+  - first:
+      213: 1803051829961615880
+    second: halloween_forest_by_schwarzenacht_d8c5ral_212
+  - first:
+      213: 80244607829460614
+    second: halloween_forest_by_schwarzenacht_d8c5ral_213
+  - first:
+      213: 9155337511762640709
+    second: halloween_forest_by_schwarzenacht_d8c5ral_214
+  - first:
+      213: 2003946278700981184
+    second: halloween_forest_by_schwarzenacht_d8c5ral_215
+  - first:
+      213: 980487072393570472
+    second: halloween_forest_by_schwarzenacht_d8c5ral_216
+  - first:
+      213: -104844960534979962
+    second: halloween_forest_by_schwarzenacht_d8c5ral_217
+  - first:
+      213: -3490250288545106408
+    second: halloween_forest_by_schwarzenacht_d8c5ral_218
+  - first:
+      213: 4979260875800288147
+    second: halloween_forest_by_schwarzenacht_d8c5ral_219
+  - first:
+      213: 6825966147289409099
+    second: halloween_forest_by_schwarzenacht_d8c5ral_220
+  - first:
+      213: 9103809421109212857
+    second: halloween_forest_by_schwarzenacht_d8c5ral_221
+  - first:
+      213: 4063280729119725506
+    second: halloween_forest_by_schwarzenacht_d8c5ral_222
+  - first:
+      213: 221296792412848150
+    second: halloween_forest_by_schwarzenacht_d8c5ral_223
+  - first:
+      213: 2739624250696675911
+    second: halloween_forest_by_schwarzenacht_d8c5ral_224
+  - first:
+      213: 3179433704557475481
+    second: halloween_forest_by_schwarzenacht_d8c5ral_225
+  - first:
+      213: -628497224546719209
+    second: halloween_forest_by_schwarzenacht_d8c5ral_226
+  - first:
+      213: -8602086093622628857
+    second: halloween_forest_by_schwarzenacht_d8c5ral_227
+  - first:
+      213: -5442861009534628988
+    second: halloween_forest_by_schwarzenacht_d8c5ral_228
+  - first:
+      213: 1404382031449521830
+    second: halloween_forest_by_schwarzenacht_d8c5ral_229
+  - first:
+      213: -4525856469097809119
+    second: halloween_forest_by_schwarzenacht_d8c5ral_230
+  - first:
+      213: 4789373622901545976
+    second: halloween_forest_by_schwarzenacht_d8c5ral_231
+  - first:
+      213: 7211689851063812808
+    second: halloween_forest_by_schwarzenacht_d8c5ral_232
+  - first:
+      213: 3441723467443641591
+    second: halloween_forest_by_schwarzenacht_d8c5ral_233
+  - first:
+      213: 2006596301774872276
+    second: halloween_forest_by_schwarzenacht_d8c5ral_234
+  - first:
+      213: 8579857991495714138
+    second: halloween_forest_by_schwarzenacht_d8c5ral_235
+  - first:
+      213: 1827220999255881920
+    second: halloween_forest_by_schwarzenacht_d8c5ral_236
+  - first:
+      213: -5098890278949751633
+    second: halloween_forest_by_schwarzenacht_d8c5ral_237
+  - first:
+      213: 2106210184320976399
+    second: halloween_forest_by_schwarzenacht_d8c5ral_238
+  - first:
+      213: 8617430155518072227
+    second: halloween_forest_by_schwarzenacht_d8c5ral_239
+  - first:
+      213: 7484306986992924636
+    second: halloween_forest_by_schwarzenacht_d8c5ral_240
+  - first:
+      213: 5898620351617990260
+    second: halloween_forest_by_schwarzenacht_d8c5ral_241
+  - first:
+      213: -5579897725474436429
+    second: halloween_forest_by_schwarzenacht_d8c5ral_242
+  - first:
+      213: -158600771760986196
+    second: halloween_forest_by_schwarzenacht_d8c5ral_243
+  - first:
+      213: -4712628263818355890
+    second: halloween_forest_by_schwarzenacht_d8c5ral_244
+  - first:
+      213: -3656103905812948489
+    second: halloween_forest_by_schwarzenacht_d8c5ral_245
+  - first:
+      213: -4569179830449017984
+    second: halloween_forest_by_schwarzenacht_d8c5ral_246
+  - first:
+      213: -8272809984321767345
+    second: halloween_forest_by_schwarzenacht_d8c5ral_247
+  - first:
+      213: -8364019333055005052
+    second: halloween_forest_by_schwarzenacht_d8c5ral_248
+  - first:
+      213: -2674992339185872070
+    second: halloween_forest_by_schwarzenacht_d8c5ral_249
+  - first:
+      213: -8271213253327074107
+    second: halloween_forest_by_schwarzenacht_d8c5ral_250
+  - first:
+      213: -3882458378420902198
+    second: halloween_forest_by_schwarzenacht_d8c5ral_251
+  - first:
+      213: 2489772914048776067
+    second: halloween_forest_by_schwarzenacht_d8c5ral_252
+  - first:
+      213: -2856516950492413851
+    second: halloween_forest_by_schwarzenacht_d8c5ral_253
+  - first:
+      213: -3602707203473784842
+    second: halloween_forest_by_schwarzenacht_d8c5ral_254
+  - first:
+      213: -3707987567922817581
+    second: halloween_forest_by_schwarzenacht_d8c5ral_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eee2ff580d3b9ee0800000000000000
+      internalID: -1253340965113762074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a789965b36857c10800000000000000
+      internalID: 2050692794751223716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2412f989b064ce2b0800000000000000
+      internalID: -5553987224835514046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9baac19bd2fd980800000000000000
+      internalID: -8512034497633797722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b637643f1de92b0800000000000000
+      internalID: -5575788445848867955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d1f975c6cfa7470800000000000000
+      internalID: 8393298397815053641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc57656f7e3f60380800000000000000
+      internalID: -9005242227284871732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bde2b0672ae0e80800000000000000
+      internalID: -8210446442772374675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c034295e7572da90800000000000000
+      internalID: -7290635661237538616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6528452af5f734190800000000000000
+      internalID: -7979394066048318890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba58a06a1df94720800000000000000
+      internalID: 2831072130511690421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d170921126b3260800000000000000
+      internalID: 7078359065185164669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d352cd1b8873d41f0800000000000000
+      internalID: -1059129277123123907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b912ac8bcb25ad0800000000000000
+      internalID: -2714900123499783409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71967370e919ed190800000000000000
+      internalID: -7935745385468303081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61021fc2b29ce6320800000000000000
+      internalID: 2553199226040426518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b044de36da83d9570800000000000000
+      internalID: 8474992391138133003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c1ff4b650249890800000000000000
+      internalID: -7452295926615434234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ef7596fdd68a620800000000000000
+      internalID: 2785597175841160805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84fc766f68ea72a0800000000000000
+      internalID: -6738818327248046961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529a8ead1fe4bfdd0800000000000000
+      internalID: -2451278771506337499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8178fbbac23c80e0800000000000000
+      internalID: -2266380666155798131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17600219afff6740800000000000000
+      internalID: 5147614000724338463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76ae7c263dc3f6c0800000000000000
+      internalID: -4110716402300705154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e983a3391f0be0b00800000000000000
+      internalID: 796768735694829726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3a50fed44321080800000000000000
+      internalID: -9218247977946733628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18bcda460ad0ebb0800000000000000
+      internalID: -4908683873273202659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c78d36e82e58b40800000000000000
+      internalID: 5442004825935477910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18b9b6f77fdeca00800000000000000
+      internalID: 778805491915143197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fafc57b69b58d90800000000000000
+      internalID: -7096061766663164130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7410af07e36fd890800000000000000
+      internalID: -7431111016087284614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed5e07c4931d97e0800000000000000
+      internalID: -1757226749888930327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9083112aa109234d0800000000000000
+      internalID: -3156301944770709495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307049b3800929160800000000000000
+      internalID: 7030840333312460547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4621d9590e052d720800000000000000
+      internalID: 2869444838101422692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e0842628fff6490800000000000000
+      internalID: -7750695498221613507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86967ae8282f3ee70800000000000000
+      internalID: 9143418311045245288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70db36201e495e320800000000000000
+      internalID: 2586637255122861319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c053abc3a2f5520800000000000000
+      internalID: 2692917542501289020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78997654209dffcb0800000000000000
+      internalID: -4827901671740302969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8607a422670e85ea0800000000000000
+      internalID: -5883706115173486488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181d8c9fe7d383a90800000000000000
+      internalID: -7334044377606991487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d51b5bde5773f5c90800000000000000
+      internalID: -7178958301366472355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7793010c45515f90800000000000000
+      internalID: -6966693363642558597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694bfb53f57920270800000000000000
+      internalID: 8215295105456649366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34cfe51caa819390800000000000000
+      internalID: -7813311406804057026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74340ba31bf3aaad0800000000000000
+      internalID: -2690267796974058681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2217a1f197481d0800000000000000
+      internalID: -3349419048362237210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ce6aa402b5a2960800000000000000
+      internalID: 7577969517253815361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fca6e848a10d1e60800000000000000
+      internalID: 7934499940785892597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7217bbe72f8dcf5c0800000000000000
+      internalID: -4180227818086764249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e986498fc5a033d0800000000000000
+      internalID: -3228898622044730908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f0af19c54142160800000000000000
+      internalID: 6999742108659224441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c3ddb90382ca860800000000000000
+      internalID: 7542447665177246735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ad5824150cb04a0800000000000000
+      internalID: -6625990971504600520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5429d160921e4ea60800000000000000
+      internalID: 7702528829022900805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e98e19f8c06c1750800000000000000
+      internalID: 6276998396936882658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa7749e7fd9cfcb0800000000000000
+      internalID: -4828811012351755612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecd786183bbd8780800000000000000
+      internalID: -8679075057302512416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f479979938c21720800000000000000
+      internalID: 2815532866742088951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14470bbf5dce77b0800000000000000
+      internalID: -5224512706659793893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7517e3b9e0fc7d140800000000000000
+      internalID: 4744488394099159383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dedce32a103012550800000000000000
+      internalID: 6134187473007201773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9bb8804f77a6a20800000000000000
+      internalID: 3056387187123403214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968a41e4f2c77f110800000000000000
+      internalID: 1294639960507590761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555060895f3c00d00800000000000000
+      internalID: 936964182077998421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82b8f1c6ff70c40800000000000000
+      internalID: 5478628311570262234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598ea029cec41e4f0800000000000000
+      internalID: -801274679749056363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4810f08689859be0800000000000000
+      internalID: -1471118492484757425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488479a1fbfc90f0800000000000000
+      internalID: -1108734392891307965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b063d7a809dfd2040800000000000000
+      internalID: 4624631189619947019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38662ddfc3fad7d70800000000000000
+      internalID: 9042576303321147011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21ec1d4f1be98fc0800000000000000
+      internalID: -3492001516378857174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cea8f43952cea20800000000000000
+      internalID: 3092888358721612913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537cb597a21971800800000000000000
+      internalID: 583094288378480437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630aee03fa4ddeeb0800000000000000
+      internalID: -4688857788117508042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1a1efde837aae80800000000000000
+      internalID: -8166587916804316677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f35e2280c5e81470800000000000000
+      internalID: 8365688922821252087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0846fd00bc856f50800000000000000
+      internalID: 6874055094027307018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7997c173b27aa40800000000000000
+      internalID: 5379315795618273267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697da4c848393dcf0800000000000000
+      internalID: -228676958567082090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9613508256a5190800000000000000
+      internalID: -7972948967745820167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e847e51f59d90c30800000000000000
+      internalID: 4326227919478671584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eed0b3899e29df30800000000000000
+      internalID: 4600759731209952996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec90b63f9211d670800000000000000
+      internalID: 8561644841634667759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee49956fc502eb40800000000000000
+      internalID: 5467939285902118625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed60004a808df120800000000000000
+      internalID: 2449255103627029990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d4473969ff6eff0800000000000000
+      internalID: -7037327210427086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d51799bab4579f0800000000000000
+      internalID: -471387385604514401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7128b186e501c0a70800000000000000
+      internalID: 8794422170007339543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da284352982a2f630800000000000000
+      internalID: 3959405732330504877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e082805ed6b650c0800000000000000
+      internalID: -4587278104480546584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690c77b6fba1d9880800000000000000
+      internalID: -8602690303763693418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1934fc9b05b87a280800000000000000
+      internalID: -9032097348837227631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc39a37a188e5420800000000000000
+      internalID: 2620681680367205554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2631dbffa41d5fcf0800000000000000
+      internalID: -219038886809234590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1473eeed3bd908e40800000000000000
+      internalID: 5656694527842203457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2f2fbbdb5777420800000000000000
+      internalID: 2627698365356503719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9b89967e77909a0800000000000000
+      internalID: -6266345570716567058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd6be5504c08c9d0800000000000000
+      internalID: -2753937701678125574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5bc57d9f11e0680800000000000000
+      internalID: -8787066058195552830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63849a24dd8f530f0800000000000000
+      internalID: -1137729701651331018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f483335b617380800000000000000
+      internalID: -8975274577281879556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344eb173ddcbbf540800000000000000
+      internalID: 5042831866069771331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3cca572019a75e0800000000000000
+      internalID: -1911055652115135512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070716ebe9256a740800000000000000
+      internalID: 5162904864579219568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e215d9242c7214910800000000000000
+      internalID: 1819779439729135918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388e48203fd04b330800000000000000
+      internalID: 3725618129112721539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b7ea1ccd441ff40800000000000000
+      internalID: 5760461113316506520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b499ba5c97531ac0800000000000000
+      internalID: -3885665724441979727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4dfdbf3849cd890800000000000000
+      internalID: -7431901990480784156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a375f7c27b0e2b80800000000000000
+      internalID: -8417778065899949143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b286160c5fdc070800000000000000
+      internalID: 8128423109090356016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd984366662d3ef0800000000000000
+      internalID: -126902993302282824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299aac1c68b6e3650800000000000000
+      internalID: 6214522762338937234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28019e324d9c35d00800000000000000
+      internalID: 960333058532774018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5cdb0978db09800800000000000000
+      internalID: 617201538896348612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13bcf885d99317c0800000000000000
+      internalID: -4101765693199043811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6440a1945672030800000000000000
+      internalID: 3469853402555762409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab168d3f60cd2520800000000000000
+      internalID: 2679008937361415087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369dbf32f5a129870800000000000000
+      internalID: 8688035627079031139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5556dc898f98b910800000000000000
+      internalID: 1853406659785151838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77576e381899c470800000000000000
+      internalID: 8415424608612079482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee081839e53b06e0800000000000000
+      internalID: -1870341944457556252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9364626c95ca513f0800000000000000
+      internalID: -930648246405675463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5b9934625b1ba20800000000000000
+      internalID: 3076439196418291158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702a0de7f28a48ee0800000000000000
+      internalID: -1259697073812364793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcb5648b39b554e0800000000000000
+      internalID: -1993483594766107469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce99ce9ba00fe7eb0800000000000000
+      internalID: -4720071430578071060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5499977f4b93040800000000000000
+      internalID: 4627929067089905056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983ccc90cfd8b7890800000000000000
+      internalID: -7459212244173405303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38468b97b1789c90800000000000000
+      internalID: -7162850173930551233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea74d7927712ea80800000000000000
+      internalID: -8439156970797892887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd9e653e367ea320800000000000000
+      internalID: 2571122446831623673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b525e8bc792ec91b0800000000000000
+      internalID: -5648390691046403493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fbcb28d4a419220800000000000000
+      internalID: 2490853765678939925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77452b7178cc91d10800000000000000
+      internalID: 2096931982107890807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1a4a7c2c7c1a500800000000000000
+      internalID: 405825080827093468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1d119baa9cd3500800000000000000
+      internalID: 377679678855565734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22852174b3b8a1550800000000000000
+      internalID: 6132366929330067490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 322c43839c9f6a6a0800000000000000
+      internalID: -6438183974652820957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8394c18caa3bde940800000000000000
+      internalID: 5327111480332273976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0481b4ff9e66117c0800000000000000
+      internalID: -4102384630361286592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ab8c0df9876c600800000000000000
+      internalID: 488210237414226482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b753d509d45a749d0800000000000000
+      internalID: -2790079691579640453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f16c42e62b6e4e0800000000000000
+      internalID: -1952677202285420693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a99cbe5ee73f8e0800000000000000
+      internalID: -1660844311601112542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcaa3677331d2ca10800000000000000
+      internalID: 1928333609444551371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6405e445490e34100800000000000000
+      internalID: 91163345151742022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fa5c2faaf375340800000000000000
+      internalID: 4852417126965030704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddf377dbc0c62f30800000000000000
+      internalID: 4550536455230062039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0254a5c920eaa6cb0800000000000000
+      internalID: -4869888720811440864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f041b443d99c11c50800000000000000
+      internalID: 6634305403117835279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6da08c9c57bbdc0800000000000000
+      internalID: -3622171965784402178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d92de8c32595160800000000000000
+      internalID: 7014728314653941052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108f6707a282ba1e0800000000000000
+      internalID: -2185609031417661439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554aa23d6cba81ea0800000000000000
+      internalID: -5901778441234373547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfd59b27e7ed6c90800000000000000
+      internalID: -7174823651276628020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7907992c5def91c70800000000000000
+      internalID: 8942458729167155351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f60036c0b05bec50800000000000000
+      internalID: 6695533991185876720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdf88194ce840a10800000000000000
+      internalID: 1874780319799377394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc277bb86bd47e50800000000000000
+      internalID: 6806306179731893431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50211a5932e460e90800000000000000
+      internalID: -7059869451115490811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23185d1af83457870800000000000000
+      internalID: 8679918141001007410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5e0ea1e2c9bedc0800000000000000
+      internalID: -3608618954573945423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67520dd1b76b28080800000000000000
+      internalID: -9186579649984977546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75a57ad33999dbc0800000000000000
+      internalID: -3757803966076443269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e5f3476f6a42510800000000000000
+      internalID: 1523526151400545822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bc3e5aaabbe8b90800000000000000
+      internalID: -7237641209535804591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd78f0d5d5ed8f70800000000000000
+      internalID: 9191255121029791176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f9188002d8e27a0800000000000000
+      internalID: -6400022851725713591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44b47f29a0c2d720800000000000000
+      internalID: 2869567745466610762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a712e19465c70b0800000000000000
+      internalID: -5729609753884001735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed52fa991bb5ab70800000000000000
+      internalID: 8909733156470545893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98164b4f02bf26410800000000000000
+      internalID: 1469012547439190409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511ce18ececfe5420800000000000000
+      internalID: 2620810127613018389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38132b2f85c3b0650800000000000000
+      internalID: 6200115664732172675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cd5c7592bdabfd0800000000000000
+      internalID: -2325305286970712978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88a9ade390d44ce0800000000000000
+      internalID: -1421782248576145267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75876824700c23290800000000000000
+      internalID: -7912050457923127209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2232eda3aecb5a5d0800000000000000
+      internalID: -3051825458277637342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5206e8185aee57600800000000000000
+      internalID: 465540531113320485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38acd306f3f212d60800000000000000
+      internalID: 7863618373609704067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5c2a24ec0ee9ee0800000000000000
+      internalID: -1252316469876570673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3000747d9e0de3d10800000000000000
+      internalID: 2107351378413682691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2c13fb6a7b42ef0800000000000000
+      internalID: -133780162114108720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de0a5fea2a4cb0c0800000000000000
+      internalID: -4558687174541046056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b532024c161471fc0800000000000000
+      internalID: -3524276295236050085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc9f5e7ad563f080800000000000000
+      internalID: -9154861628416615233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907aa25636a8cf930800000000000000
+      internalID: 4178366713796667145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5099432a450d7f0800000000000000
+      internalID: -589878495541656156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b479b18e60dd910800000000000000
+      internalID: 1863653414766332824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df90d070f53459a0800000000000000
+      internalID: -6245307476454891563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfa93b7843c23680800000000000000
+      internalID: -8776738007719235641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd19f38a6f92f920800000000000000
+      internalID: 3022653579748515285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d4b047ecb8db480800000000000000
+      internalID: -8881789171278328514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b513d38909f5f490800000000000000
+      internalID: -7712984967540435533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc5a2980310b6910800000000000000
+      internalID: 1831558981427551443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 991b3490feb0c1810800000000000000
+      internalID: 1737276677538689433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832d9895a05af7160800000000000000
+      internalID: 7025515407591723576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5f62bbda2352250800000000000000
+      internalID: 5919193006999008696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf738b01cb3c7160800000000000000
+      internalID: 7024555219099025359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3c0c9b1da10f440800000000000000
+      internalID: 4967499877056562144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8a319af4b40b490800000000000000
+      internalID: -7732597754684004104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d06da3e67f834e0800000000000000
+      internalID: -2001577981560615593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_205
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354b8c6245a160db0800000000000000
+      internalID: -4826141001950645165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25348fc01b949b0f0800000000000000
+      internalID: -1100767609139739822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1894010116e9b60800000000000000
+      internalID: 7754742329999196656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd989e4da30bfa2d0800000000000000
+      internalID: -3265197438093653539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78e5b290df825840800000000000000
+      internalID: 5211385844798449791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ab4e04f1455a7d0800000000000000
+      internalID: -2907825491188336037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b539e931bd1736ed0800000000000000
+      internalID: -2421966988854258853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aea7c161ab50910800000000000000
+      internalID: 1803051829961615880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686c0d0bb061d1100800000000000000
+      internalID: 80244607829460614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fbb6bb5fa4e0f70800000000000000
+      internalID: 9155337511762640709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb10fae5827fcb10800000000000000
+      internalID: 2003946278700981184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_216
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8a1e82cc36b9d00800000000000000
+      internalID: 980487072393570472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_217
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a92da50148b8ef0800000000000000
+      internalID: -104844960534979962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_218
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816701ecad3209fc0800000000000000
+      internalID: -3490250288545106408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_219
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b9312a263e91540800000000000000
+      internalID: 4979260875800288147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_220
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46e602ab04babe50800000000000000
+      internalID: 6825966147289409099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_221
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6b1183f6a375e70800000000000000
+      internalID: 9103809421109212857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_222
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c71fd18b4ca36830800000000000000
+      internalID: 4063280729119725506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_223
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61083bd9244321300800000000000000
+      internalID: 221296792412848150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74232d8adb9150620800000000000000
+      internalID: 2739624250696675911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9967d03eb1e9f1c20800000000000000
+      internalID: 3179433704557475481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ae29caa112747f0800000000000000
+      internalID: -628497224546719209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eab4e06404f9880800000000000000
+      internalID: -8602086093622628857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b4dd4dfb21774b0800000000000000
+      internalID: -5442861009534628988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae7d71540e5d7310800000000000000
+      internalID: 1404382031449521830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b7507358de031c0800000000000000
+      internalID: -4525856469097809119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb1ca15fe5477240800000000000000
+      internalID: 4789373622901545976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_232
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2c2fad5b1151460800000000000000
+      internalID: 7211689851063812808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_233
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc9a14324573cf20800000000000000
+      internalID: 3441723467443641591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_234
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de57ee74bcd8db10800000000000000
+      internalID: 2006596301774872276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_235
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55066e9267c11770800000000000000
+      internalID: 8579857991495714138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_236
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8f7ca51d79b5910800000000000000
+      internalID: 1827220999255881920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_237
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4f18e6e4a1d39b0800000000000000
+      internalID: -5098890278949751633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_238
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0603c2e003ca3d10800000000000000
+      internalID: 2106210184320976399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_239
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5d460c113479770800000000000000
+      internalID: 8617430155518072227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7ffa51d899dd760800000000000000
+      internalID: 7484306986992924636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e741325fb1cd150800000000000000
+      internalID: 5898620351617990260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba061e05983092b0800000000000000
+      internalID: -5579897725474436429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7651a30798ccdf0800000000000000
+      internalID: -158600771760986196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b14a80091699eb0800000000000000
+      internalID: -4712628263818355890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9d9185ed8e24dc0800000000000000
+      internalID: -3656103905812948489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08be43b17230790c0800000000000000
+      internalID: -4569179830449017984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_247
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4832368623113d80800000000000000
+      internalID: -8272809984321767345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_248
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48eb1c62bb80deb80800000000000000
+      internalID: -8364019333055005052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a335fe5e3a480ead0800000000000000
+      internalID: -2674992339185872070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cccfed6e5fb63d80800000000000000
+      internalID: -8271213253327074107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_251
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6abfaccacbe1ac0800000000000000
+      internalID: -3882458378420902198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_252
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387344126437d8220800000000000000
+      internalID: 2489772914048776067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_253
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560840fc7fc9b58d0800000000000000
+      internalID: -2856516950492413851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff343be2ec900ec0800000000000000
+      internalID: -3602707203473784842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: halloween_forest_by_schwarzenacht_d8c5ral_255
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d55566e3f49a8cc0800000000000000
+      internalID: -3707987567922817581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a3d7477a0264b3f4faeb1916b905343d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
