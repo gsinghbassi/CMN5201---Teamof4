@@ -16,6 +16,7 @@ TagManager:
   - ToggleBanjo
   - ToggleViolin
   - ToggleGuitar
+  - CheckPoints
   layers:
   - Default
   - TransparentFX

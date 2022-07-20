@@ -8,6 +8,9 @@ public class EnemyHealthDamage : MonoBehaviour
     public int maxhealth = 2;
     public int currenthealth;
     public int health;
+    public bool huntersleeping;
+    public AudioClip DamageSound;
+    AudioSource EnemySoundController;
 
     public EnemyHealthBar healthBar;
 
@@ -17,12 +20,17 @@ public class EnemyHealthDamage : MonoBehaviour
         Slider slider = GetComponent<Slider>();
         currenthealth = maxhealth;
         healthBar.SetMaxHealth(maxhealth);
+        EnemySoundController = GetComponent<AudioSource>();
     }
 
      
    void Update()
     {
-        
+        if (currenthealth <= 0 && !huntersleeping)
+        {
+            G_GameManager.Obj_huntersleep = true;
+            huntersleeping = true;
+        }
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -40,6 +48,8 @@ public class EnemyHealthDamage : MonoBehaviour
         currenthealth -= Damage;
 
         healthBar.SetHealth(currenthealth);
+        EnemySoundController.PlayOneShot(DamageSound);
+        EnemySoundController.SetScheduledEndTime(1f);
     }
 
    

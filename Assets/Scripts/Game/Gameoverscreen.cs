@@ -17,6 +17,13 @@ public class Gameoverscreen : MonoBehaviour
         
     }
 
+    public void Checkpoint()
+    {
+        GameObject.Find("doll_0").GetComponent<Player>().CheckpointRestart();
+        gameObject.SetActive(false);
+    }
+
+
     public void Restartgame()
     {
         SceneManager.LoadScene("SampleScene");

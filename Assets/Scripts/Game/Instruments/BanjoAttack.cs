@@ -80,6 +80,7 @@ public class BanjoAttack : MonoBehaviour
                 banjoIcon.SetActive(true);
                 counter = 0;
                 isInInventory = true;
+                G_GameManager.Obj_banjocollection = true;
             }
         }
     }

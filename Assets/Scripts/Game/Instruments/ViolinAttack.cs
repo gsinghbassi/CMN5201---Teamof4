@@ -80,6 +80,7 @@ public class ViolinAttack : MonoBehaviour
                 ViolinIcon.SetActive(true);
                 counter = 0;
                 isInInventory = true;
+                G_GameManager.Obj_violincollection = true;
             }
         }
     }
