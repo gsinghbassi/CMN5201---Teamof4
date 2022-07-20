@@ -27,6 +27,9 @@ public class Gameoverscreen : MonoBehaviour
     public void Restartgame()
     {
         SceneManager.LoadScene("SampleScene");
+        G_GameManager.Obj_banjocollection = false;
+        G_GameManager.Obj_violincollection = false;
+        G_GameManager.Obj_huntersleep = false;
     }
 
     public void ExitGame()
