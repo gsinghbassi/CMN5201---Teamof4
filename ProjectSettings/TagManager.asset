@@ -17,6 +17,8 @@ TagManager:
   - ToggleViolin
   - ToggleGuitar
   - CheckPoints
+  - Porch\Garden
+  - Porch and Garden
   layers:
   - Default
   - TransparentFX
