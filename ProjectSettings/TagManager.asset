@@ -19,6 +19,8 @@ TagManager:
   - CheckPoints
   - Porch\Garden
   - Porch and Garden
+  - NPCs
+  - Keys
   layers:
   - Default
   - TransparentFX
