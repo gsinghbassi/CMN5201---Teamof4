@@ -23,13 +23,28 @@ public class Player : MonoBehaviour
     public GameObject gameOverScreen;
     AudioSource PlayerAudioController;
 
+
+    //Inventory
+    public int Coins;
+
+    //Dialogue
+    public  Dialogue_System DialogueController;
+    Dialogue_NPC NPCinContact;
+
+    //SideQuests
+    public List<string> ItemsCollected=new List<string>();
+
     //Checkpoint
     public Transform Checkpoint;
     public AudioClip CheckPointSound;
 
+
+
+
     // Start is called before the first frame update
     void Start()
     {
+        Coins = 0;
         Checkpoint = null;
         healthy = new Color(1f, 1f, 1f, 1f);
         damage = new Color(1f, 0f, 0f, 1f);
@@ -37,10 +52,12 @@ public class Player : MonoBehaviour
         //Doll = GetComponent<SpriteRenderer>();
         Doll.color = healthy;
 
-        Slider slider = GetComponent<Slider>(); 
+        Slider slider = GetComponent<Slider>();
         currenthealth = maxhealth;
         healthBar.SetMaxHealth(maxhealth);
         PlayerAudioController = GetComponent<AudioSource>();
+        DialogueController = GetComponent<Dialogue_System>();
+        NPCinContact = null;
     }
 
     // Update is called once per frame
@@ -68,7 +85,6 @@ public class Player : MonoBehaviour
             TakenDamage(1);
             Doll.color = damage;
         }
-
         if (collision.gameObject.tag == "CheckPoints")
         {
             Checkpoint = collision.gameObject.transform;
@@ -76,6 +92,26 @@ public class Player : MonoBehaviour
             collision.gameObject.transform.Find("CheckpointGFX").gameObject.SetActive(true);
             PlayerAudioController.PlayOneShot(CheckPointSound);
         }
+
+        if(collision.gameObject.tag=="NPCs")
+        {
+            NPCinContact = collision.gameObject.GetComponent<Dialogue_NPC>();
+            if (ItemsCollected.Contains( NPCinContact.ItemName))
+            {
+                NPCinContact.objectivecompleted = true;
+                NPCinContact.activetext = NPCinContact.objectivecompleteTextnumber;
+            }
+                DialogueController.DialogueCanvas.SetActive(true);
+            DialogueController.UpdateText(collision.gameObject);
+            
+            
+        }
+
+        if(collision.gameObject.tag=="Keys")
+        {
+            ItemsCollected.Add(collision.gameObject.name);
+            Destroy(collision.gameObject);
+                }
 
     }
 
@@ -85,8 +121,27 @@ public class Player : MonoBehaviour
         {
             Doll.color = healthy;
         }
+        if (collision.gameObject.tag == "NPCs")
+        {
+            
+            DialogueController.DialogueCanvas.SetActive(false);
+            
+
+        }
 
     }
+
+    public void UpdateDialogue()
+    {
+        if (NPCinContact.activetext == NPCinContact.objectivecompleteTextnumber)
+        {
+            ItemsCollected.Remove(NPCinContact.ItemName);
+        }
+        NPCinContact.UpdateActiveText();
+        DialogueController.DialogueCanvas.SetActive(false);
+          
+    }
+
 
 
     public void TakenDamage(int Damage)
@@ -100,6 +155,7 @@ public class Player : MonoBehaviour
 
     }
 
+
     public void CheckpointRestart()
     {
         health = maxhealth;
@@ -109,6 +165,7 @@ public class Player : MonoBehaviour
 
     }
 
+    
 
 
     private void Update()

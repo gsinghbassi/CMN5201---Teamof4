@@ -1515,7 +1515,7 @@ MonoBehaviour:
     - Take control of a possessed doll and make the invaders fall into a perpetual
       slumber using music.
     - "Move:WASD                                                   \nTo pick-up an
-      instrument:Walk upon it\nShoot:"
+      instrument:Walk upon it\nShoot: Left Control and Right Mouse Button"
     - Your mission will be fullfilled when all the invaders are asleep. Careful of
       the light, that's your only weakness.
 --- !u!114 &1569203163

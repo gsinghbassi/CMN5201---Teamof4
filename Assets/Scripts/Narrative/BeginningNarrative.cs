@@ -55,6 +55,6 @@ public class BeginningNarrative : MonoBehaviour
     }
     void EndDialogue()
     {
-        SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("SampleScene");
     }
 }

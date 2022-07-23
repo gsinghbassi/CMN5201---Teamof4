@@ -11,7 +11,6 @@ public class EnemyHealthDamage : MonoBehaviour
     public bool huntersleeping;
     public AudioClip DamageSound;
     AudioSource EnemySoundController;
-
     public EnemyHealthBar healthBar;
 
     // Start is called before the first frame update
@@ -26,11 +25,12 @@ public class EnemyHealthDamage : MonoBehaviour
      
    void Update()
     {
-        if (currenthealth <= 0 && !huntersleeping)
+        if (currenthealth<=0 && !huntersleeping)
         {
             G_GameManager.Obj_huntersleep = true;
-            huntersleeping = true;
+            huntersleeping=true;
         }
+        
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -50,6 +50,7 @@ public class EnemyHealthDamage : MonoBehaviour
         healthBar.SetHealth(currenthealth);
         EnemySoundController.PlayOneShot(DamageSound);
         EnemySoundController.SetScheduledEndTime(1f);
+
     }
 
    

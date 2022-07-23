@@ -9,7 +9,13 @@ public class ViolinAttack : MonoBehaviour
     private bool inventoryViolin = false;
     [SerializeField] private Text violintext;
     [SerializeField] Transform attackingPointRight, attackingPointLeft, attackingPointUp, attackingPointDown;
-    [SerializeField] GameObject musicScorePrefab;
+    [SerializeField] GameObject musicScorePrefabRight;
+    [SerializeField] GameObject musicScorePrefabLeft;
+    [SerializeField] GameObject musicScorePrefabTop;
+    [SerializeField] GameObject musicScorePrefabDown;
+    
+   
+
     [SerializeField] GameObject ViolinIcon;
     private int counter=0;
     private bool isInInventory=false;
@@ -44,22 +50,27 @@ public class ViolinAttack : MonoBehaviour
     {
         if (myCharacterController.myDirection == CharacterController.Direction.right)
         {
-            Instantiate(musicScorePrefab, attackingPointRight.position, attackingPointRight.rotation);
+            Instantiate(musicScorePrefabRight, attackingPointRight.position, attackingPointRight.rotation);
+            
             counter++;
         }
         if (myCharacterController.myDirection == CharacterController.Direction.left)
         {
-            Instantiate(musicScorePrefab, attackingPointLeft.position, attackingPointLeft.rotation);
+            
+            Instantiate(musicScorePrefabLeft, attackingPointLeft.position, attackingPointRight.rotation);
+            
             counter++;
         }
         if (myCharacterController.myDirection == CharacterController.Direction.up)
         {
-            Instantiate(musicScorePrefab, attackingPointUp.position, attackingPointUp.rotation);
+            Instantiate(musicScorePrefabTop, attackingPointUp.position, attackingPointRight.rotation);
+            
             counter++;
         }
         if (myCharacterController.myDirection == CharacterController.Direction.down)
         {
-            Instantiate(musicScorePrefab, attackingPointDown.position, attackingPointDown.rotation);
+            Instantiate(musicScorePrefabDown, attackingPointDown.position, attackingPointRight.rotation);
+           
             counter++;
         }
 

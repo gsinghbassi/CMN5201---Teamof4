@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+
 public class G_GameManager : MonoBehaviour
 {
     //Objective Management
@@ -16,31 +17,46 @@ public class G_GameManager : MonoBehaviour
 
 
 
-
+    
 
 
     // Start is called before the first frame update
     void Start()
     {
+        Obj_banjocollection = false;
+        Obj_violincollection = false;
+        Obj_huntersleep = false;
+
         Objective1.enabled = false;
         Objective2.enabled = false;
-        Objective3.enabled = false;
+        Objective3.enabled = false;        
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (Obj_violincollection)
+        if(Obj_banjocollection)
         {
             Objective1.enabled = true;
-        }
-        if (Obj_banjocollection)
+
+        } 
+        if(Obj_violincollection)
         {
             Objective2.enabled = true;
+
         }
-        if (Obj_huntersleep)
+        if(Obj_huntersleep)
         {
             Objective3.enabled = true;
+
         }
+        
+
     }
+
+    public void Initialize()
+    {
+        
+    }
+
 }
