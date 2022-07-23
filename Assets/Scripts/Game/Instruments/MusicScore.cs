@@ -14,6 +14,7 @@ public class MusicScore : MonoBehaviour
     {
         rb.velocity= transform.right *speed;
         banjoAttackSFX.Play();
+        Destroy(gameObject, 5f);
     }
     private void OnCollisionEnter2D(Collision2D other)
     {

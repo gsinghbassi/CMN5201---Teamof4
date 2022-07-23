@@ -77,9 +77,9 @@ public class BanjoAttack : MonoBehaviour
                 banjo++;
                 banjotext.text = "Banjo: " + banjo;
                 inventoryBanjo = true;
-                banjoIcon.SetActive(true);
+                banjoIcon.SetActive(true);                
                 counter = 0;
-                isInInventory = true;
+                isInInventory = true; 
                 G_GameManager.Obj_banjocollection = true;
             }
         }

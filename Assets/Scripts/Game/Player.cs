@@ -27,6 +27,9 @@ public class Player : MonoBehaviour
     public Transform Checkpoint;
     public AudioClip CheckPointSound;
 
+
+
+
     // Start is called before the first frame update
     void Start()
     {
@@ -37,7 +40,7 @@ public class Player : MonoBehaviour
         //Doll = GetComponent<SpriteRenderer>();
         Doll.color = healthy;
 
-        Slider slider = GetComponent<Slider>(); 
+        Slider slider = GetComponent<Slider>();
         currenthealth = maxhealth;
         healthBar.SetMaxHealth(maxhealth);
         PlayerAudioController = GetComponent<AudioSource>();
@@ -68,7 +71,6 @@ public class Player : MonoBehaviour
             TakenDamage(1);
             Doll.color = damage;
         }
-
         if (collision.gameObject.tag == "CheckPoints")
         {
             Checkpoint = collision.gameObject.transform;
@@ -100,6 +102,7 @@ public class Player : MonoBehaviour
 
     }
 
+
     public void CheckpointRestart()
     {
         health = maxhealth;
@@ -108,7 +111,6 @@ public class Player : MonoBehaviour
         PlayerAudioController.PlayOneShot(CheckPointSound);
 
     }
-
 
 
     private void Update()
