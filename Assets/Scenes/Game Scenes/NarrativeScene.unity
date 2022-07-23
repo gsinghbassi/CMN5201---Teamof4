@@ -477,8 +477,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4.3771, y: 71.59729}
-  m_SizeDelta: {x: 228.7543, y: 133.1972}
+  m_AnchoredPosition: {x: 4.3771, y: 55.849}
+  m_SizeDelta: {x: 228.7543, y: 253.7}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &438768911
 MonoBehaviour:
@@ -1495,7 +1495,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -63, y: -40}
+  m_AnchoredPosition: {x: -63, y: -86}
   m_SizeDelta: {x: 160, y: 30}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1569203162
@@ -1515,7 +1515,8 @@ MonoBehaviour:
     - Take control of a possessed doll and make the invaders fall into a perpetual
       slumber using music.
     - "Move:WASD                                                   \nTo pick-up an
-      instrument:Walk upon it\nShoot: Left Control and Right Mouse Button"
+      instrument:Walk upon it\nShoot: Left Control and Right Mouse Button\nThe violin
+      has unlimited amno but the banjos can only be used twice."
     - Your mission will be fullfilled when all the invaders are asleep. Careful of
       the light, that's your only weakness.
 --- !u!114 &1569203163
