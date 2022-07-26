@@ -21,6 +21,7 @@ TagManager:
   - Porch and Garden
   - NPCs
   - Keys
+  - BanjoScore
   layers:
   - Default
   - TransparentFX

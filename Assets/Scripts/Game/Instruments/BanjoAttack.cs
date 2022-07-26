@@ -80,7 +80,7 @@ public class BanjoAttack : MonoBehaviour
                 banjoIcon.SetActive(true);                
                 counter = 0;
                 isInInventory = true; 
-                G_GameManager.Obj_banjocollection = true;
+                
             }
         }
     }
@@ -89,7 +89,7 @@ public class BanjoAttack : MonoBehaviour
     {
         if (collision.transform.tag == "Hunter")
         {
-            collision.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(1);
+            collision.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(25);
         }
 
        

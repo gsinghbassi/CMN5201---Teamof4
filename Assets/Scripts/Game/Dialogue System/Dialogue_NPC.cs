@@ -7,11 +7,13 @@ public class Dialogue_NPC : MonoBehaviour
     public int activetext;
     public int objectivecompleteTextnumber;
     public bool objectivecompleted;
-    public string ItemName;
     public GameObject Reward;
+    public GameObject SideQuestObjectiveItem;
+    public string SideQuestObjectiveItemname;
     [TextArea (5,10)]
     public string[] DialogueNPC;
     public string[] ButtonText;
+    
     
 
 
@@ -22,6 +24,8 @@ public class Dialogue_NPC : MonoBehaviour
         Reward.gameObject.SetActive(false);
         activetext = 0;
         objectivecompleted = false;
+        SideQuestObjectiveItemname = SideQuestObjectiveItem.name;
+        SideQuestObjectiveItem.SetActive(false);
     }
 
    public void UpdateActiveText()
@@ -29,6 +33,8 @@ public class Dialogue_NPC : MonoBehaviour
         if(!objectivecompleted)
         {
             activetext = 1;
+            G_GameManager.begin_sidequests = true;
+            SideQuestObjectiveItem.SetActive(true);
         }
 
         if(objectivecompleted && activetext < DialogueNPC.Length-1)

@@ -38,16 +38,16 @@ public class ViolinScore : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D other)
     {
-        Debug.Log("collision with " + other.gameObject.tag); //debugs whatever has just collided
+        //Debug.Log("collision with " + other.gameObject.tag); //debugs whatever has just collided
 
-        //if (other.gameObject.CompareTag("Hunter"))
-        //{
-            //Destroy(other.gameObject);
-            //Destroy(gameObject);
-        //}
+        if (other.gameObject.tag == "Hunter")
+        {
+            other.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(1);
+            Destroy(gameObject);
+        }
         if (other.gameObject.CompareTag("Walls"))
         {
-            Debug.Log("Wall has been hit");
+            //Debug.Log("Wall has been hit");
             Destroy(gameObject);
             
         }

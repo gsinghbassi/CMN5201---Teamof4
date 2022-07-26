@@ -25,7 +25,7 @@ public class Gameoverscreen : MonoBehaviour
 
     public void Restartgame()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("Level1");
        
     }
 

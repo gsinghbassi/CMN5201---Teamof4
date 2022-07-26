@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
-public class Player : MonoBehaviour
+public class Player : MonoBehaviour 
 {
 
     public int maxhealth = 8;
@@ -29,6 +29,7 @@ public class Player : MonoBehaviour
     //Dialogue
     public  Dialogue_System DialogueController;
     Dialogue_NPC NPCinContact;
+    float DialogueCanvas_VisibiltyDelay;
 
     //SideQuests
     public List<string> ItemsCollected=new List<string>();
@@ -43,7 +44,7 @@ public class Player : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        DialogueCanvas_VisibiltyDelay = 0;
         Checkpoint = null;
         healthy = new Color(1f, 1f, 1f, 1f);
         damage = new Color(1f, 0f, 0f, 1f);
@@ -92,24 +93,30 @@ public class Player : MonoBehaviour
             PlayerAudioController.PlayOneShot(CheckPointSound);
         }
 
-        if(collision.gameObject.tag=="NPCs")
+        if(collision.gameObject.tag=="NPCs" && Time.time>DialogueCanvas_VisibiltyDelay)
         {
             NPCinContact = collision.gameObject.GetComponent<Dialogue_NPC>();
-            if (ItemsCollected.Contains( NPCinContact.ItemName))
+            if (ItemsCollected.Contains( NPCinContact.SideQuestObjectiveItemname))
             {
                 NPCinContact.objectivecompleted = true;
                 NPCinContact.activetext = NPCinContact.objectivecompleteTextnumber;
             }
-                DialogueController.DialogueCanvas.SetActive(true);
-            DialogueController.UpdateText(collision.gameObject);
+            DialogueController.DialogueCanvas.SetActive(true);
+            DialogueController.UpdateText(collision.gameObject);           
             
-            
+        }
+
+        if(collision.gameObject.name== "NPC1_Zita")
+                {
+            G_GameManager.Obj_meetZita = true;
+
         }
 
         if(collision.gameObject.tag=="Keys")
         {
             ItemsCollected.Add(collision.gameObject.name);
             Destroy(collision.gameObject);
+            G_GameManager.SQObj_GetKeys = true;
                 }
 
     }
@@ -124,7 +131,7 @@ public class Player : MonoBehaviour
         {
             
             DialogueController.DialogueCanvas.SetActive(false);
-            
+           
 
         }
 
@@ -134,14 +141,15 @@ public class Player : MonoBehaviour
     {
         if (NPCinContact.activetext == NPCinContact.objectivecompleteTextnumber)
         {
-            ItemsCollected.Remove(NPCinContact.ItemName);
+            ItemsCollected.Remove(NPCinContact.SideQuestObjectiveItemname);
         }
         NPCinContact.UpdateActiveText();
         DialogueController.DialogueCanvas.SetActive(false);
-          
+        DialogueCanvas_VisibiltyDelay = Time.time + 4f;
+
     }
 
-
+    
 
     public void TakenDamage(int Damage)
     {

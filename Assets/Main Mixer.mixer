@@ -33,6 +33,25 @@ AudioMixerGroupController:
   m_Mute: 0
   m_Solo: 0
   m_BypassEffects: 0
+--- !u!243 &-7024921247249975559
+AudioMixerGroupController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EasterEggs
+  m_AudioMixer: {fileID: 24100000}
+  m_GroupID: 9f8454a9610b19a4b95c8cd5bc370de4
+  m_Children: []
+  m_Volume: 3266401706a9e624ca7530b1496bbd9e
+  m_Pitch: 04f18274257dc144f80d8cebfa1d332a
+  m_Send: 00000000000000000000000000000000
+  m_Effects:
+  - {fileID: 3362694202386361951}
+  m_UserColorIndex: 0
+  m_Mute: 0
+  m_Solo: 0
+  m_BypassEffects: 0
 --- !u!243 &-4863489388353471136
 AudioMixerGroupController:
   m_ObjectHideFlags: 0
@@ -103,6 +122,7 @@ AudioMixerController:
     - 273a394ce484de64fa0d7db62db5c83a
     - dab1b2753f2ea8c4888a7d4b58d0b571
     - f657f7b3a16cc924d9bb65387676307d
+    - 9f8454a9610b19a4b95c8cd5bc370de4
     name: View
   m_CurrentViewIndex: 0
   m_TargetSnapshot: {fileID: 24500006}
@@ -120,6 +140,7 @@ AudioMixerGroupController:
   - {fileID: -7402628809245905036}
   - {fileID: 576119700823526062}
   - {fileID: -4863489388353471136}
+  - {fileID: -7024921247249975559}
   m_Volume: 30c92205e12f80147aa08f5bb3f50681
   m_Pitch: 37124b96d8d7aae47875509629fd2cae
   m_Send: 00000000000000000000000000000000
@@ -178,6 +199,20 @@ AudioMixerGroupController:
   m_Mute: 0
   m_Solo: 0
   m_BypassEffects: 0
+--- !u!244 &3362694202386361951
+AudioMixerEffectController:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  m_EffectID: 775fdef9981062e43a01cdaa950e830e
+  m_EffectName: Attenuation
+  m_MixLevel: aa41fcc247667474e9320b8199c0045f
+  m_Parameters: []
+  m_SendTarget: {fileID: 0}
+  m_EnableWetMix: 0
+  m_Bypass: 0
 --- !u!244 &6971586427073154963
 AudioMixerEffectController:
   m_ObjectHideFlags: 3

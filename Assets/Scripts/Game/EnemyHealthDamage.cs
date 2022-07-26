@@ -35,12 +35,7 @@ public class EnemyHealthDamage : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Score") 
-        {
-            TakenDamage(1);
-            Debug.Log("damage taken by enemy from " + collision.gameObject.tag);
-            Destroy(collision.gameObject);
-        }
+      
     }
 
     public void TakenDamage(int Damage)
