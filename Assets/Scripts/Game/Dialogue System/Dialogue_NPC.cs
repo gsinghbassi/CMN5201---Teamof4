@@ -8,14 +8,18 @@ public class Dialogue_NPC : MonoBehaviour
     public int objectivecompleteTextnumber;
     public bool objectivecompleted;
     public string ItemName;
-    public int reward;
+    public GameObject Reward;
     [TextArea (5,10)]
     public string[] DialogueNPC;
     public string[] ButtonText;
     
+
+
+
     // Start is called before the first frame update
     void Start()
     {
+        Reward.gameObject.SetActive(false);
         activetext = 0;
         objectivecompleted = false;
     }
@@ -28,11 +32,18 @@ public class Dialogue_NPC : MonoBehaviour
         }
 
         if(objectivecompleted && activetext < DialogueNPC.Length-1)
-        { 
+        {
+            if (activetext == objectivecompleteTextnumber)
+            {
+                Reward.gameObject.SetActive(true);
+            }
+
             activetext++;
         }
 
     }    
+
+    
 
 
 

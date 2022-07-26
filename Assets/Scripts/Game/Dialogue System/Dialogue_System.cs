@@ -9,6 +9,7 @@ public class Dialogue_System : MonoBehaviour
     public Text DialogueTextUI;
     public Text ButtonTextUI;
     Dialogue_NPC NPCController;
+    
 
 
 

@@ -24,8 +24,7 @@ public class Player : MonoBehaviour
     AudioSource PlayerAudioController;
 
 
-    //Inventory
-    public int Coins;
+   
 
     //Dialogue
     public  Dialogue_System DialogueController;
@@ -44,7 +43,7 @@ public class Player : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        Coins = 0;
+        
         Checkpoint = null;
         healthy = new Color(1f, 1f, 1f, 1f);
         damage = new Color(1f, 0f, 0f, 1f);
