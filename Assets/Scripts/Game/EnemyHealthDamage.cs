@@ -5,6 +5,7 @@ using UnityEngine.UI;
 
 public class EnemyHealthDamage : MonoBehaviour
 {
+    Animator anim;
     public int maxhealth = 50;
     public int currenthealth;
     public int health;
@@ -20,6 +21,7 @@ public class EnemyHealthDamage : MonoBehaviour
         currenthealth = maxhealth;
         healthBar.SetMaxHealth(maxhealth);
         EnemySoundController = GetComponent<AudioSource>();
+        anim = GetComponent<Animator>();
     }
 
      
@@ -29,8 +31,8 @@ public class EnemyHealthDamage : MonoBehaviour
         {
             G_GameManager.Obj_huntersleep = true;
             huntersleeping=true;
-        }
-        
+            anim.SetBool("kill", true);
+        }   
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

@@ -26,29 +26,33 @@ public class Patrol : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        anim.SetBool("side", true);
-        if (movingLeft)
+        if (anim.GetBool("kill") == false)
         {
-            if(enemy.position.x <= rightEdge.position.x)
+
+
+            if (movingLeft)
+            {
+                if (enemy.position.x <= rightEdge.position.x)
+                    MoveInDirection(1);
+                else
+                {
+                    DirectionChange();
+                }
+
+
+            }
+
+            else
+            {
+                if (enemy.position.x >= leftEdge.position.x)
+                    MoveInDirection(-1);
+                else
+                {
+                    DirectionChange();
+                }
+            }
             MoveInDirection(1);
-            else
-            {
-                DirectionChange();
-            }
-
-
         }
-
-        else
-        {
-            if (enemy.position.x >= leftEdge.position.x)
-                MoveInDirection(-1);
-            else
-            {
-                DirectionChange();
-            }
-        }
-        MoveInDirection(1);
     }
 
     private void DirectionChange()

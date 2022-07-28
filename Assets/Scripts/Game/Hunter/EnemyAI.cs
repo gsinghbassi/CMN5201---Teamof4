@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class EnemyAI : MonoBehaviour
 {
+    Animator anim;
+    [SerializeField] int startAnimation;
     Rigidbody2D rb;
     [SerializeField] Transform[] patrolPoints;
     private int patrolPointIndex;
@@ -18,6 +20,19 @@ public class EnemyAI : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         graphics = GetComponent<SpriteRenderer>();
+        anim = GetComponent<Animator>();
+        if (startAnimation == 1)
+        {
+            anim.SetBool("down", true);
+        }
+        if (startAnimation == 2)
+        {
+            anim.SetBool("up", true);
+        }
+        if (startAnimation == 3)
+        {
+            anim.SetBool("side", true);
+        }
     }
 
     // Update is called once per frame
