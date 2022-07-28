@@ -30,7 +30,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 721557846199398168}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 5.12, y: -9.08, z: 0}
   m_LocalScale: {x: 1.5, y: 1.5, z: 1.5}
   m_Children:
@@ -193,6 +193,8 @@ MonoBehaviour:
   maxhealth: 2
   currenthealth: 2
   health: 2
+  huntersleeping: 0
+  DamageSound: {fileID: 0}
   healthBar: {fileID: 3983011396302836246}
 --- !u!114 &3983011396868934604
 MonoBehaviour:
@@ -327,7 +329,7 @@ GameObject:
   - component: {fileID: 3983011396586738687}
   - component: {fileID: 3983011396586738680}
   m_Layer: 0
-  m_Name: torchlighttransp
+  m_Name: torchlightW
   m_TagString: Light
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -687,7 +689,7 @@ GameObject:
   - component: {fileID: 3983011396817575396}
   - component: {fileID: 3983011396817575397}
   m_Layer: 0
-  m_Name: torchlighttransp (1)
+  m_Name: torchlightN
   m_TagString: Light
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1197,7 +1199,7 @@ GameObject:
   - component: {fileID: 3983011397860206224}
   - component: {fileID: 3983011397860206225}
   m_Layer: 0
-  m_Name: torchlighttransp (3)
+  m_Name: torchlightE
   m_TagString: Light
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1557,7 +1559,7 @@ GameObject:
   - component: {fileID: 3983011397886753506}
   - component: {fileID: 3983011397886753507}
   m_Layer: 0
-  m_Name: torchlighttransp (2)
+  m_Name: torchlightS
   m_TagString: Light
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

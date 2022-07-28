@@ -25,7 +25,7 @@ public class Lightmovement : MonoBehaviour
         positions[1] = transform.position.y;
         if (positions[0] > positions[2])
         {
-            lights[1].SetActive (true);
+            lights[1].SetActive(true);
             lights[0].SetActive(false);
             lights[2].SetActive(false);
             lights[3].SetActive(false);
@@ -33,7 +33,7 @@ public class Lightmovement : MonoBehaviour
         }
         if (positions[0] < positions[2])
         {
-            lights[3].SetActive (true);
+            lights[3].SetActive(true);
             lights[0].SetActive(false);
             lights[1].SetActive(false);
             lights[2].SetActive(false);
@@ -41,7 +41,7 @@ public class Lightmovement : MonoBehaviour
         }
         if (positions[1] > positions[3])
         {
-            lights[0].SetActive (true);
+            lights[0].SetActive(true);
             lights[1].SetActive(false);
             lights[2].SetActive(false);
             lights[3].SetActive(false);
@@ -49,7 +49,7 @@ public class Lightmovement : MonoBehaviour
         }
         if (positions[1] < positions[3])
         {
-            lights[2].SetActive (true);
+            lights[2].SetActive(true);
             lights[0].SetActive(false);
             lights[1].SetActive(false);
             lights[3].SetActive(false);
