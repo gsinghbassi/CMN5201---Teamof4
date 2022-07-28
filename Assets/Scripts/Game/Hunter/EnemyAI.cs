@@ -23,7 +23,10 @@ public class EnemyAI : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        
+
+      
+
+        //check if is NOT sleeping (flag bool on the enemyhealthdamage script)
         Vector2 moveDirection = (patrolPoints[patrolPointIndex].position - transform.position).normalized*speed;
         //Move to destination
         rb.velocity = new Vector2(moveDirection.x, moveDirection.y);

@@ -40,7 +40,7 @@ public class EnemyHealthDamage : MonoBehaviour
 
     public void TakenDamage(int Damage)
     {
-        currenthealth -= Damage;
+        currenthealth -= Damage;  //check if health is 0, if so, set sleeping flag to true, and set the art to sleeping
 
         healthBar.SetHealth(currenthealth);
         EnemySoundController.PlayOneShot(DamageSound);
