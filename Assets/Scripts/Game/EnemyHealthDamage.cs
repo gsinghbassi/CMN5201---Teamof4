@@ -29,7 +29,7 @@ public class EnemyHealthDamage : MonoBehaviour
     {
         if (currenthealth<=0 && !huntersleeping)
         {
-            G_GameManager.Obj_huntersleep = true;
+            
             huntersleeping=true;
             maxEnemies--;
         }
