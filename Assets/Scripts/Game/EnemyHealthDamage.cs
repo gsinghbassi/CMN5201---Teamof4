@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class EnemyHealthDamage : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class EnemyHealthDamage : MonoBehaviour
     public AudioClip DamageSound;
     AudioSource EnemySoundController;
     public EnemyHealthBar healthBar;
+    private int maxEnemies = 6;
 
     // Start is called before the first frame update
     void Start()
@@ -29,6 +31,14 @@ public class EnemyHealthDamage : MonoBehaviour
         {
             G_GameManager.Obj_huntersleep = true;
             huntersleeping=true;
+            maxEnemies--;
+        }
+
+        if(maxEnemies == 0)
+        {
+            G_GameManager.Obj_huntersleep = true;
+            SceneManager.LoadScene("GameCleared");
+
         }
         
     }
