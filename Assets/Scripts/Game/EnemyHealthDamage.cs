@@ -2,10 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class EnemyHealthDamage : MonoBehaviour
 {
-    Animator anim;
     public int maxhealth = 50;
     public int currenthealth;
     public int health;
@@ -13,6 +13,7 @@ public class EnemyHealthDamage : MonoBehaviour
     public AudioClip DamageSound;
     AudioSource EnemySoundController;
     public EnemyHealthBar healthBar;
+    private int maxEnemies = 6;
 
     // Start is called before the first frame update
     void Start()
@@ -21,7 +22,6 @@ public class EnemyHealthDamage : MonoBehaviour
         currenthealth = maxhealth;
         healthBar.SetMaxHealth(maxhealth);
         EnemySoundController = GetComponent<AudioSource>();
-        anim = GetComponent<Animator>();
     }
 
      
@@ -31,8 +31,16 @@ public class EnemyHealthDamage : MonoBehaviour
         {
             G_GameManager.Obj_huntersleep = true;
             huntersleeping=true;
-            anim.SetBool("kill", true);
-        }   
+            maxEnemies--;
+        }
+
+        if(maxEnemies == 0)
+        {
+            G_GameManager.Obj_huntersleep = true;
+            SceneManager.LoadScene("GameCleared");
+
+        }
+        
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
