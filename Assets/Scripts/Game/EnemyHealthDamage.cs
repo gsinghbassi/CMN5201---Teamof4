@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class EnemyHealthDamage : MonoBehaviour
 {
-    public int maxhealth = 2;
+    public int maxhealth = 50;
     public int currenthealth;
     public int health;
     public bool huntersleeping;

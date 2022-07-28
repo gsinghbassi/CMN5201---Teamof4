@@ -19,5 +19,9 @@ public class StartMenuManager : MonoBehaviour
         Application.Quit();
     }
 
+    public void Credits()
+    {
+       
+    }
     
 }
