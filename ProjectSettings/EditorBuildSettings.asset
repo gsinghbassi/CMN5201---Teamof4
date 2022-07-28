@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Game Scenes/NarrativeScene.unity
     guid: d8bc2deaf9482644fba9b0a24e5907bd
   - enabled: 1
-    path: Assets/Scenes/Game Scenes/Level1.unity
+    path: Assets/Scenes/Game Scenes/Level1(Copy).unity
     guid: dd761d50a3d29164fa743288ced9f341
   - enabled: 1
     path: Assets/Scenes/Game Scenes/GameCleared.unity

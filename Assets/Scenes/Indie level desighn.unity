@@ -31991,6 +31991,10 @@ PrefabInstance:
       value: new hunter
       objectReference: {fileID: 0}
     - target: {fileID: 3983011397133737433, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
+      propertyPath: startAnimation
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3983011397133737433, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
       propertyPath: patrolPoints.Array.data[0]
       value: 
       objectReference: {fileID: 1672768255}
