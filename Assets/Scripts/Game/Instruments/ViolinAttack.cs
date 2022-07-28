@@ -24,6 +24,9 @@ public class ViolinAttack : MonoBehaviour
 
     [SerializeField] private AudioSource violinPickUpSFX;
 
+    public AudioSource audioSource;
+    public AudioClip[] audioClipArray;
+
     private void Start()
     {
         ViolinIcon.SetActive(false);
@@ -76,6 +79,11 @@ public class ViolinAttack : MonoBehaviour
 
 
     }
+
+    AudioClip RandomClip()
+    {
+        return audioClipArray[Random.Range(0, audioClipArray.Length)];
+    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (isInInventory == false)
@@ -83,6 +91,7 @@ public class ViolinAttack : MonoBehaviour
 
             if (collision.gameObject.tag == "Violin")
             {
+                audioSource.PlayOneShot(RandomClip());
                 violinPickUpSFX.Play();
                 Destroy(collision.gameObject);
                 violin++;

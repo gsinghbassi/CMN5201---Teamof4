@@ -63374,7 +63374,7 @@ MonoBehaviour:
   currenthealth: 50
   health: 50
   huntersleeping: 0
-  DamageSound: {fileID: 0}
+  DamageSound: {fileID: 8300000, guid: a500350eee8b5314c859db850fa17cb8, type: 3}
   healthBar: {fileID: 130150850}
 --- !u!1 &1211001356
 GameObject:

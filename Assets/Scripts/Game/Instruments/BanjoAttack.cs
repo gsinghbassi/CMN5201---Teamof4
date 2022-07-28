@@ -18,6 +18,9 @@ public class BanjoAttack : MonoBehaviour
 
     [SerializeField] private AudioSource banjoPickUpSFX;
 
+    public AudioSource audioSource;
+    public AudioClip[] audioClipArray;
+
     private void Start()
     {
         banjoIcon.SetActive(false);
@@ -65,6 +68,11 @@ public class BanjoAttack : MonoBehaviour
 
 
     }
+
+    AudioClip RandomClip()
+    {
+        return audioClipArray[Random.Range(0, audioClipArray.Length)];
+    }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (isInInventory == false)
@@ -72,6 +80,7 @@ public class BanjoAttack : MonoBehaviour
 
             if (collision.gameObject.tag == "Banjo")
             {
+                audioSource.PlayOneShot(RandomClip());
                 banjoPickUpSFX.Play();
                 Destroy(collision.gameObject);
                 banjo++;
