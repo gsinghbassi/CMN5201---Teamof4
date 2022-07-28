@@ -98,7 +98,7 @@ public class BanjoAttack : MonoBehaviour
     {
         if (collision.transform.tag == "Hunter")
         {
-            collision.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(25);
+            collision.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(10);
         }
 
        

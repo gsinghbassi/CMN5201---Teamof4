@@ -21,7 +21,7 @@ public class MusicScore : MonoBehaviour
 
        if (other.gameObject.tag=="Hunter")
         {
-            other.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(25);
+            other.gameObject.GetComponent<EnemyHealthDamage>().TakenDamage(10);
             Destroy(gameObject);
       }
         if (other.gameObject.CompareTag("Walls"))
