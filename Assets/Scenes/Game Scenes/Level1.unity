@@ -65234,7 +65234,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Put the hunter to sleep
+  m_Text: Put the hunters' to sleep
 --- !u!222 &1464686285
 CanvasRenderer:
   m_ObjectHideFlags: 0
