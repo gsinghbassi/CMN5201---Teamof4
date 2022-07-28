@@ -1174,9 +1174,9 @@ MonoBehaviour:
   m_HandleRect: {fileID: 0}
   m_Direction: 0
   m_MinValue: 0
-  m_MaxValue: 50
+  m_MaxValue: 10
   m_WholeNumbers: 1
-  m_Value: 50
+  m_Value: 10
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls: []
@@ -63678,9 +63678,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 845a5ab96528b5846b70174fce71c752, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  maxhealth: 50
-  currenthealth: 50
-  health: 50
+  maxhealth: 10
+  currenthealth: 10
+  health: 10
   huntersleeping: 0
   DamageSound: {fileID: 8300000, guid: a500350eee8b5314c859db850fa17cb8, type: 3}
   healthBar: {fileID: 130150850}
