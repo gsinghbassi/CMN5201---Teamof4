@@ -4,14 +4,12 @@ using UnityEngine;
 
 public class Lightmovement : MonoBehaviour
 {
-    float[] positions;
+    Rigidbody2D rb;
+    Vector2 positions;
     public GameObject[] lights;
-    // Start is called before the first frame update
     void Start()
     {
-        positions[2] = transform.position.x;
-        positions[3] = transform.position.y;
-
+        rb = GetComponent<Rigidbody2D>();
         lights[0].SetActive(false);
         lights[1].SetActive(false);
         lights[2].SetActive(false);
@@ -21,39 +19,35 @@ public class Lightmovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        positions[0] = transform.position.x;
-        positions[1] = transform.position.y;
-        if (positions[0] > positions[2])
+
+        positions = new Vector2(rb.velocity.x, rb.velocity.y);
+
+        lights[0].SetActive(false);
+        lights[1].SetActive(false);
+        lights[2].SetActive(false);
+        lights[2].SetActive(false);
+        lights[3].SetActive(false);
+
+        if (positions.x < 1)
         {
+            //right light
             lights[1].SetActive(true);
-            lights[0].SetActive(false);
-            lights[2].SetActive(false);
-            lights[3].SetActive(false);
-            positions[2] = positions[0];
         }
-        if (positions[0] < positions[2])
+        if (positions.x > 1)
         {
+            //left light
             lights[3].SetActive(true);
-            lights[0].SetActive(false);
-            lights[1].SetActive(false);
-            lights[2].SetActive(false);
-            positions[2] = positions[0];
         }
-        if (positions[1] > positions[3])
+        if (positions.y < 1)
         {
-            lights[0].SetActive(true);
-            lights[1].SetActive(false);
-            lights[2].SetActive(false);
-            lights[3].SetActive(false);
-            positions[3] = positions[1];
-        }
-        if (positions[1] < positions[3])
-        {
+            //down light
             lights[2].SetActive(true);
-            lights[0].SetActive(false);
-            lights[1].SetActive(false);
-            lights[3].SetActive(false);
-            positions[3] = positions[1];
         }
+        if (positions.y > 1)
+        {
+            //up light
+            lights[0].SetActive(true);
+        }
+
     }
 }
