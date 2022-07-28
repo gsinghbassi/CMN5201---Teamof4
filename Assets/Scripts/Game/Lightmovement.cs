@@ -25,25 +25,26 @@ public class Lightmovement : MonoBehaviour
         lights[0].SetActive(false);
         lights[1].SetActive(false);
         lights[2].SetActive(false);
-        lights[2].SetActive(false);
         lights[3].SetActive(false);
 
-        if (positions.x < 1)
+        if (positions.x > 0)
         {
             //right light
             lights[1].SetActive(true);
+            Debug.Log("right");
         }
-        if (positions.x > 1)
+        if (positions.x < 0)
         {
             //left light
             lights[3].SetActive(true);
         }
-        if (positions.y < 1)
+        if (positions.y < 0)
         {
             //down light
             lights[2].SetActive(true);
+            Debug.Log("down");
         }
-        if (positions.y > 1)
+        if (positions.y > 0)
         {
             //up light
             lights[0].SetActive(true);
