@@ -483,7 +483,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 229832751}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.2, y: 1.21, z: 0}
+  m_LocalPosition: {x: -5.2, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1305935429}
@@ -31170,7 +31170,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1672768254}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.69, y: 1.29, z: 0}
+  m_LocalPosition: {x: 1.69, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1305935429}
@@ -32118,6 +32118,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: new hunter
       objectReference: {fileID: 0}
+    - target: {fileID: 3983011396586738682, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3983011396817575398, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.386
+      objectReference: {fileID: 0}
+    - target: {fileID: 3983011396817575399, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3983011397133737433, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
       propertyPath: patrolPoints.Array.data[0]
       value: 
@@ -32132,6 +32144,26 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3983011397168831294, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
       propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3983011397860206226, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.253
+      objectReference: {fileID: 0}
+    - target: {fileID: 3983011397860206226, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3983011397860206227, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3983011397886753516, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.194
+      objectReference: {fileID: 0}
+    - target: {fileID: 3983011397886753517, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
+      propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3983011397888055385, guid: c156e5997a5a7f24c910528ddcd6641c, type: 3}
