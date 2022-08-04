@@ -13,7 +13,7 @@ public class EnemyHealthDamage : MonoBehaviour
     public AudioClip DamageSound;
     AudioSource EnemySoundController;
     public EnemyHealthBar healthBar;
-    private int maxEnemies = 1;
+    private int maxEnemies = 2;
 
     // Start is called before the first frame update
     void Start()

@@ -7,7 +7,7 @@ public class GameClearedMenuManager : MonoBehaviour
 {
     public void PlayAgain()
     {
-        SceneManager.LoadScene("Level1");
+        SceneManager.LoadScene("Level1(Copy)");
     }
 
     public void ExitGame()
