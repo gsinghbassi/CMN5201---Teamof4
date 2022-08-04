@@ -13,7 +13,7 @@ public class EnemyHealthDamage : MonoBehaviour
     public AudioClip DamageSound;
     AudioSource EnemySoundController;
     public EnemyHealthBar healthBar;
-    private int maxEnemies = 2;
+    private int maxEnemies = 6;
 
     // Start is called before the first frame update
     void Start()
@@ -35,8 +35,9 @@ public class EnemyHealthDamage : MonoBehaviour
             Destroy(gameObject);
             maxEnemies--;
         }
+       
 
-        if(maxEnemies == 0)
+        if (maxEnemies == 0)
         {
             G_GameManager.Obj_huntersleep = true;
             SceneManager.LoadScene("GameCleared");
