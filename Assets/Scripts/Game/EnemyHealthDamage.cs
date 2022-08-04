@@ -13,7 +13,7 @@ public class EnemyHealthDamage : MonoBehaviour
     public AudioClip DamageSound;
     AudioSource EnemySoundController;
     public EnemyHealthBar healthBar;
-    private int maxEnemies = 5;
+    private int maxEnemies = 1;
 
     // Start is called before the first frame update
     void Start()
@@ -22,15 +22,16 @@ public class EnemyHealthDamage : MonoBehaviour
         currenthealth = maxhealth;
         healthBar.SetMaxHealth(maxhealth);
         EnemySoundController = GetComponent<AudioSource>();
+        
     }
 
      
    void Update()
     {
-        if (currenthealth<=0 && !huntersleeping)
+        if (currenthealth<=0) //&& !huntersleeping)
         {
             
-            huntersleeping=true;
+           // huntersleeping=true;
             Destroy(gameObject);
             maxEnemies--;
         }
