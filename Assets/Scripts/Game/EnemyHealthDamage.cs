@@ -31,6 +31,7 @@ public class EnemyHealthDamage : MonoBehaviour
         {
             
             huntersleeping=true;
+            Destroy(gameObject);
             maxEnemies--;
         }
 
